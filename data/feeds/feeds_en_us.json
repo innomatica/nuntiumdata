@@ -1,0 +1,597 @@
+{
+  "created": "2022-10-14T19:53:16.332737",
+  "data": [
+    {
+      "title": "CNBC News",
+      "nickname": "CNBC",
+      "website": "https://www.cnbc.com",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "usa"
+      ],
+      "feedlist": "https://www.cnbc.com/rss-feeds/",
+      "favicon": "https://www.cnbc.com/favicon.ico",
+      "channels": {
+        "Top News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+        "World News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+        "US News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15837362",
+        "Asia News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19832390",
+        "Europe News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19794221",
+        "Business": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147",
+        "Earnings": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135",
+        "Commentary": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100370673",
+        "Economy": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
+        "Finance": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+        "Technology": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
+        "Politics": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000113",
+        "Health Care": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000108",
+        "Real Estate": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000115",
+        "Wealth": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001054",
+        "Autos": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000101",
+        "Energy": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19836768",
+        "Media": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000110",
+        "Retail": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000116",
+        "Travel": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000739",
+        "Small Business": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=44877279"
+      }
+    },
+    {
+      "title": "CNN News",
+      "nickname": "CNN",
+      "website": "https://www.cnn.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "usa"
+      ],
+      "feedlist": "https://www.cnn.com/services/rss/",
+      "favicon": "https://www.cnn.com/favicon.ico",
+      "channels": {
+        "Top Stories": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "World": "http://rss.cnn.com/rss/cnn_world.rss",
+        "U.S.": "http://rss.cnn.com/rss/cnn_us.rss",
+        "Politics": "http://rss.cnn.com/rss/cnn_allpolitics.rss",
+        "Technology": "http://rss.cnn.com/rss/cnn_tech.rss",
+        "Health": "http://rss.cnn.com/rss/cnn_health.rss",
+        "Entertainment": "http://rss.cnn.com/rss/cnn_showbiz.rss",
+        "Travel": "http://rss.cnn.com/rss/cnn_travel.rss",
+        "Video": "http://rss.cnn.com/rss/cnn_freevideo.rss",
+        "CNN 10": "http://rss.cnn.com/services/podcasting/cnn10/rss.xml",
+        "Most Recent": "http://rss.cnn.com/rss/cnn_latest.rss",
+        "CNN Underscored": "http://rss.cnn.com/cnn-underscored"
+      }
+    },
+    {
+      "title": "CNN Money",
+      "nickname": "CNN",
+      "website": "https://money.cnn.com",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "business"
+      ],
+      "feedlist": "https://money.cnn.com/services/rss/",
+      "favicon": "https://money.cnn.com/favicon.ico",
+      "channels": {
+        "All Stories": "http://rss.cnn.com/rss/money_latest.rss",
+        "Top Stories": "http://rss.cnn.com/rss/money_topstories.rss",
+        "Most Popular": "http://rss.cnn.com/rss/money_mostpopular.rss",
+        "Companies": "http://rss.cnn.com/rss/money_news_companies.rss",
+        "International": "http://rss.cnn.com/rss/money_news_international.rss",
+        "Economy": "http://rss.cnn.com/rss/money_news_economy.rss",
+        "Video": "http://rss.cnn.com/rss/money_video_business.rss",
+        "Media": "http://rss.cnn.com/rss/money_media.rss",
+        "Markets": "http://rss.cnn.com/rss/money_markets.rss",
+        "The Buzz": "http://rss.cnn.com/cnnmoneymorningbuzz",
+        "Technology": "http://rss.cnn.com/rss/money_technology.rss",
+        "Personal Finance": "http://rss.cnn.com/rss/money_pf.rss",
+        "Autos": "http://rss.cnn.com/rss/money_autos.rss",
+        "Funds": "http://rss.cnn.com/rss/money_funds.rss",
+        "College": "http://rss.cnn.com/rss/money_pf_college.rss",
+        "Insurance": "http://rss.cnn.com/rss/money_pf_insurance.rss",
+        "Taxes": "http://rss.cnn.com/rss/money_pf_taxes.rss",
+        "Retirement": "http://rss.cnn.com/rss/money_retirement.rss",
+        "Lifestyle": "http://rss.cnn.com/rss/money_lifestyle.rss",
+        "Real Estate": "http://rss.cnn.com/rss/money_realestate.rss",
+        "Luxury": "http://rss.cnn.com/rss/money_luxury.rss",
+        "Small Business": "http://rss.cnn.com/rss/money_smbusiness.rss"
+      }
+    },
+    {
+      "title": "New York Times, The",
+      "nickname": "NYT",
+      "website": "https://www.nytimes.com",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "usa"
+      ],
+      "feedlist": "https://www.nytimes.com/rss",
+      "favicon": "https://www.nytimes.com/favicon.ico",
+      "channels": {
+        "World": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "Africa": "https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml",
+        "Americas": "https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml",
+        "Asia Pacific": "https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml",
+        "Europe": "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml",
+        "Middle East": "https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml",
+        "U.S.": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
+        "Education": "https://rss.nytimes.com/services/xml/rss/nyt/Education.xml",
+        "Politics": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+        "The Upshot": "https://rss.nytimes.com/services/xml/rss/nyt/Upshot.xml",
+        "N.Y./Region": "https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml",
+        "Business": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+        "Energy & Environment": "https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml",
+        "Small Business": "https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml",
+        "Economy": "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml",
+        "DealBook": "https://rss.nytimes.com/services/xml/rss/nyt/Dealbook.xml",
+        "Media & Advertising": "https://rss.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml",
+        "Your Money": "https://rss.nytimes.com/services/xml/rss/nyt/YourMoney.xml",
+        "Technology": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "Personal Tech": "https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml",
+        "Sports": "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+        "Baseball": "https://rss.nytimes.com/services/xml/rss/nyt/Baseball.xml",
+        "College Basketball": "https://rss.nytimes.com/services/xml/rss/nyt/CollegeBasketball.xml",
+        "College Football": "https://rss.nytimes.com/services/xml/rss/nyt/CollegeFootball.xml",
+        "Golf": "https://rss.nytimes.com/services/xml/rss/nyt/Golf.xml",
+        "Hockey": "https://rss.nytimes.com/services/xml/rss/nyt/Hockey.xml",
+        "Pro-Basketball": "https://rss.nytimes.com/services/xml/rss/nyt/ProBasketball.xml",
+        "Pro-Football": "https://rss.nytimes.com/services/xml/rss/nyt/ProFootball.xml",
+        "Soccer": "https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml",
+        "Tennis": "https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml",
+        "Science": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+        "Environment": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml",
+        "Space & Cosmos": "https://rss.nytimes.com/services/xml/rss/nyt/Space.xml",
+        "Health": "https://www.nytimes.com/services/xml/rss/nyt/Health.xml",
+        "Well Blog": "https://rss.nytimes.com/services/xml/rss/nyt/Well.xml",
+        "Arts": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
+        "Art & Design": "https://rss.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml",
+        "Books": "https://rss.nytimes.com/services/xml/rss/nyt/Books.xml",
+        "Sunday Book Review": "https://rss.nytimes.com/services/xml/rss/nyt/SundayBookReview.xml",
+        "Dance": "https://rss.nytimes.com/services/xml/rss/nyt/Dance.xml",
+        "Movies": "https://rss.nytimes.com/services/xml/rss/nyt/Movies.xml",
+        "Music": "https://rss.nytimes.com/services/xml/rss/nyt/Music.xml",
+        "Television": "https://rss.nytimes.com/services/xml/rss/nyt/Television.xml",
+        "Theater": "https://rss.nytimes.com/services/xml/rss/nyt/Theater.xml",
+        "Fashion & Style": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+        "Dining & Wine": "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml",
+        "Love": "https://www.nytimes.com/services/xml/rss/nyt/Weddings.xml",
+        "T Magazine": "https://rss.nytimes.com/services/xml/rss/nyt/tmagazine.xml",
+        "Travel": "https://www.nytimes.com/services/xml/rss/nyt/Travel.xml",
+        "Sunday Review": "https://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml"
+      }
+    },
+    {
+      "title": "MarketWatch",
+      "nickname": "MarketWatch",
+      "website": "https://www.marketwatch.com",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "business"
+      ],
+      "feedlist": "https://www.marketwatch.com/rss/",
+      "favicon": "https://www.marketwatch.com/favicon.ico",
+      "channels": {
+        "Top Stories": "http://www.marketwatch.com/rss/topstories",
+        "Real-time headlines": "http://www.marketwatch.com/rss/realtimeheadlines",
+        "MarketPulse": "http://www.marketwatch.com/rss/marketpulse",
+        "Breaking News Bulletins": "http://feeds.marketwatch.com/marketwatch/bulletins",
+        "Personal Finance Stories/Columns": "http://www.marketwatch.com/rss/pf",
+        "Stocks to Watch": "http://www.marketwatch.com/rss/StockstoWatch",
+        "Internet Stories/Columns": "http://www.marketwatch.com/rss/internet",
+        "Mutual Funds": "http://www.marketwatch.com/rss/mutualfunds",
+        "Software Stories/Columns": "http://www.marketwatch.com/rss/software",
+        "Banking": "http://www.marketwatch.com/rss/financial",
+        "Financial Services Stories/Columns": "http://www.marketwatch.com/rss/financial",
+        "Commentary": "http://www.marketwatch.com/rss/commentary",
+        "Newsletters & Research": "http://www.marketwatch.com/rss/newslettersandresearch",
+        "Automotive Reviews": "http://www.marketwatch.com/rss/Autoreviews"
+      }
+    },
+    {
+      "title": "PBS NewsHour",
+      "nickname": "PBS",
+      "website": "https://www.pbs.org/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "usa",
+        "public"
+      ],
+      "feedlist": "https://www.pbs.org/newshour/subscribe#rss-feeds",
+      "favicon": "https://www.pbs.org/favicon.ico",
+      "channels": {
+        "The Latest": "https://www.pbs.org/newshour/feeds/rss/headlines",
+        "Politics": "https://www.pbs.org/newshour/feeds/rss/politics",
+        "Arts": "https://www.pbs.org/newshour/feeds/rss/arts",
+        "Nation": "https://www.pbs.org/newshour/feeds/rss/nation",
+        "World": "https://www.pbs.org/newshour/feeds/rss/world",
+        "Economy": "https://www.pbs.org/newshour/feeds/rss/economy",
+        "Science": "https://www.pbs.org/newshour/feeds/rss/science",
+        "Health": "https://www.pbs.org/newshour/feeds/rss/health",
+        "Education": "https://www.pbs.org/newshour/feeds/rss/education",
+        "Agents for Change": "https://www.pbs.org/newshour/feeds/rss/agents-for-change",
+        "American Graduate": "https://www.pbs.org/newshour/feeds/rss/american-graduate"
+      }
+    },
+    {
+      "title": "Wall Street Journal, The",
+      "nickname": "WSJ",
+      "website": "https://www.wsj.com",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "business",
+        "usa"
+      ],
+      "feedlist": "https://www.wsj.com/news/rss-news-and-feeds",
+      "favicon": "https://www.wsj.com/favicon.ico",
+      "channels": {
+        "Opinion": "https://feeds.a.dj.com/rss/RSSOpinion.xml",
+        "World News": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+        "US Business": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+        "Market News": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "Technology": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+        "Lifestyle": "https://feeds.a.dj.com/rss/RSSLifestyle.xml"
+      }
+    },
+    {
+      "title": "Newswire",
+      "nickname": "Newswire",
+      "website": "https://www.newswire.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "press release"
+      ],
+      "feedlist": "https://www.newswire.com/feeds",
+      "favicon": "https://www.newswire.com/favicon.ico",
+      "channels": {
+        "Premium Press Release": "https://www.newswire.com/newsroom/rss/custom/premium-press-releases",
+        "Latest Press Release": "https://www.newswire.com/newsroom/rss/custom/all-press-releases",
+        "Arts and Entertainment": "https://www.newswire.com/newsroom/rss/arts-and-entertainment"
+      }
+    },
+    {
+      "title": "Techmeme Ride Home",
+      "nickname": "Techmeme",
+      "website": "https://www.ridehome.info/show/techmeme-ride-home/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "podcast",
+        "it"
+      ],
+      "feedlist": "https://www.ridehome.info/show/techmeme-ride-home/",
+      "favicon": "https://podpage.imgix.net/https%3A%2F%2Fs3.us-west-1.amazonaws.com%2Fredwood-labs%2Fshowpage%2Fuploads%2Fimages%2F1261c691983b425483d6674b52831064.png?h=720&w=32&s=75c4ba0fedf34392f6cd4204c7b1e0b6",
+      "channels": {
+        "Episodes": "https://rss.art19.com/techmeme-ridehome"
+      }
+    },
+    {
+      "title": "Jordan Habinger Show",
+      "nickname": "Jordan Habinger",
+      "website": "https://www.jordanharbinger.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "podcast",
+        "social science"
+      ],
+      "feedlist": "https://www.jordanharbinger.com/podcasts/",
+      "favicon": "https://www.jordanharbinger.com/favicon.ico",
+      "channels": {
+        "Episodes": "https://www.jordanharbinger.com/rss/"
+      }
+    },
+    {
+      "title": "Gizmodo",
+      "nickname": "Gizmodo",
+      "website": "https://gizmodo.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "magazine",
+        "it"
+      ],
+      "feedlist": "https://gizmodo.com/",
+      "favicon": "https://gizmodo.com/favicon.ico",
+      "channels": {
+        "News": "https://gizmodo.com/rss"
+      }
+    },
+    {
+      "title": "WIRED",
+      "nickname": "WIRED",
+      "website": "https://www.wired.com",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "magazine"
+      ],
+      "feedlist": "https://www.wired.com/about/rss-feeds/",
+      "favicon": "https://www.wired.com/favicon.ico",
+      "channels": {
+        "Business": "https://www.wired.com/feed/category/business/latest/rss",
+        "Artificial Intelligence": "https://www.wired.com/feed/tag/ai/latest/rss",
+        "Culture": "https://www.wired.com/feed/category/culture/latest/rss",
+        "Gear": "https://www.wired.com/feed/category/gear/latest/rss",
+        "Ideas": "https://www.wired.com/feed/category/ideas/latest/rss",
+        "Science": "https://www.wired.com/feed/category/science/latest/rss",
+        "Security": "https://www.wired.com/feed/category/security/latest/rss",
+        "Backchannel": "https://www.wired.com/feed/category/backchannel/latest/rss",
+        "Guides": "https://www.wired.com/feed/tag/wired-guide/latest/rss"
+      }
+    },
+    {
+      "title": "Verge, The",
+      "nickname": "The Verge",
+      "website": "https://www.theverge.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "magazine",
+        "it"
+      ],
+      "feedlist": "https://www.theverge.com/2012/1/25/2732963/verge-rss-feeds",
+      "favicon": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/21956592/favicon-96x96.0.0.ico",
+      "channels": {
+        "All Posts": "https://www.theverge.com/rss/index.xml",
+        "Android": "http://www.theverge.com/android/rss/index.xml",
+        "Apple": "http://www.theverge.com/apple/rss/index.xml",
+        "Apps & Software": "http://www.theverge.com/apps/rss/index.xml",
+        "BlackBerry": "http://www.theverge.com/blackberry/rss/index.xml",
+        "Culture": "http://www.theverge.com/culture/rss/index.xml",
+        "Gaming": "http://www.theverge.com/gaming/rss/index.xml",
+        "HD & Home": "http://www.theverge.com/hd/rss/index.xml",
+        "Microsoft": "http://www.theverge.com/microsoft/rss/index.xml",
+        "Mobile": "http://www.theverge.com/mobile/rss/index.xml",
+        "Photography & Video": "http://www.theverge.com/photography/rss/index.xml",
+        "Policy & Law": "http://www.theverge.com/policy/rss/index.xml",
+        "Web & Social": "http://www.theverge.com/web/rss/index.xml"
+      }
+    },
+    {
+      "title": "Phys.org",
+      "nickname": "Phys",
+      "website": "https://phys.org/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "journal",
+        "science",
+        "physics"
+      ],
+      "feedlist": "https://phys.org/feeds/",
+      "favicon": "https://phys.org/favicon.ico",
+      "channels": {
+        "All News": "https://phys.org/rss-feed/",
+        "Earth": "https://phys.org/rss-feed/earth-news/",
+        "Other Sciences": "https://phys.org/rss-feed/science-news/",
+        "Nanotechnology": "https://phys.org/rss-feed/nanotech-news/",
+        "Physics": "https://phys.org/rss-feed/physics-news/",
+        "Astronomy & Space": "https://phys.org/rss-feed/space-news/",
+        "Biology": "https://phys.org/rss-feed/biology-news/",
+        "Chemistry": "https://phys.org/rss-feed/chemistry-news/"
+      }
+    },
+    {
+      "title": "New Scientist",
+      "nickname": "New Sci",
+      "website": "https://www.newscientist.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "journal",
+        "science"
+      ],
+      "feedlist": "https://www.newscientist.com/rss-feeds/",
+      "favicon": "https://www.newscientist.com/favicon.ico",
+      "channels": {
+        "All articles": "https://www.newscientist.com/feed/home/",
+        "News": "https://www.newscientist.com/section/news/feed/",
+        "Features": "https://www.newscientist.com/section/features/feed/",
+        "Physics": "https://www.newscientist.com/subject/physics/feed/",
+        "Technology": "https://www.newscientist.com/subject/technology/feed/",
+        "Space": "https://www.newscientist.com/subject/space/feed/",
+        "Life": "https://www.newscientist.com/subject/life/feed/",
+        "Earth": "https://www.newscientist.com/subject/earth/feed/",
+        "Health": "https://www.newscientist.com/subject/health/feed/",
+        "Humans": "https://www.newscientist.com/subject/humans/feed/"
+      }
+    },
+    {
+      "title": "Reddit",
+      "nickname": "Reddit",
+      "website": "https://www.reddit.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "community"
+      ],
+      "feedlist": "https://www.reddit.com/wiki/rss",
+      "favicon": "https://www.reddit.com/favicon.ico",
+      "channels": {
+        "r/funny": "https://www.reddit.com/r/funny/.rss",
+        "r/aww": "https://www.reddit.com/r/aww/.rss",
+        "r/pics": "https://www.reddit.com/r/pics/.rss",
+        "r/science": "https://www.reddit.com/r/science/.rss",
+        "r/worldnews": "https://www.reddit.com/r/worldnews/.rss",
+        "r/news": "https://www.reddit.com/r/news/.rss",
+        "r/videos": "https://www.reddit.com/r/videos/.rss",
+        "r/IAmA": "https://www.reddit.com/r/IAmA/.rss",
+        "r/todayilearned": "https://www.reddit.com/r/todayilearned/.rss",
+        "r/atheism": "https://www.reddit.com/r/atheism/.rss",
+        "r/technology": "https://www.reddit.com/r/technology/.rss",
+        "r/AdviceAnimals": "https://www.reddit.com/r/AdviceAnimals/.rss",
+        "r/Music": "https://www.reddit.com/r/Music/.rss",
+        "r/movies": "https://www.reddit.com/r/movies/.rss",
+        "r/bestof": "https://www.reddit.com/r/bestof/.rss",
+        "r/trees": "https://www.reddit.com/r/trees/.rss",
+        "r/gifs": "https://www.reddit.com/r/gifs/.rss",
+        "r/reactiongifs": "https://www.reddit.com/r/reactiongifs/.rss",
+        "r/mildlyinteresting": "https://www.reddit.com/r/mildlyinteresting/.rss",
+        "r/fffffffuuuuuuuuuuuu": "https://www.reddit.com/r/fffffffuuuuuuuuuuuu/.rss",
+        "r/woahdude": "https://www.reddit.com/r/woahdude/.rss",
+        "r/arresteddevelopment": "https://www.reddit.com/r/arresteddevelopment/.rss",
+        "r/gameofthrones": "https://www.reddit.com/r/gameofthrones/.rss",
+        "r/cats": "https://www.reddit.com/r/cats/.rss",
+        "r/doctorwho": "https://www.reddit.com/r/doctorwho/.rss",
+        "r/MURICA": "https://www.reddit.com/r/MURICA/.rss",
+        "r/firstworldanarchists": "https://www.reddit.com/r/firstworldanarchists/.rss"
+      }
+    },
+    {
+      "title": "Hacker News",
+      "nickname": "Hacker",
+      "website": "https://news.ycombinator.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "it"
+      ],
+      "feedlist": "https://hnrss.github.io/",
+      "favicon": "https://news.ycombinator.com/favicon.ico",
+      "channels": {
+        "Newest": "https://hnrss.org/newest"
+      }
+    },
+    {
+      "title": "NASA",
+      "nickname": "NASA",
+      "website": "https://www.nasa.gov/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "science"
+      ],
+      "feedlist": "https://www.nasa.gov/content/nasa-rss-feeds",
+      "favicon": "https://www.nasa.gov/favicon.ico",
+      "channels": {
+        "Breaking News": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+        "Education News": "https://www.nasa.gov/rss/dyn/educationnews.rss",
+        "Image of the Day": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "ISS Report": "http://blogs.nasa.gov/stationreport/feed/",
+        "On the Station": "https://www.nasa.gov/rss/dyn/onthestation_rss.rss",
+        "Kepler Mission": "https://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss",
+        "Chandra Mission": "http://www.nasa.gov/rss/dyn/chandra_images.rss",
+        "Space Station": "https://www.nasa.gov/rss/dyn/shuttle_station.rss",
+        "Solar System and Beyond": "https://www.nasa.gov/rss/dyn/solar_system.rss",
+        "Earth": "https://www.nasa.gov/rss/dyn/earth.rss",
+        "Aeronautics": "https://www.nasa.gov/rss/dyn/aeronautics.rss",
+        "Hurricane Update": "https://www.nasa.gov/rss/dyn/hurricaneupdate.rss"
+      }
+    },
+    {
+      "title": "BBC News",
+      "nickname": "BBC",
+      "website": "https://bbc.co.uk/news",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "uk",
+        "public"
+      ],
+      "feedlist": "https://www.bbc.co.uk/news/10628494",
+      "favicon": "https://bbc.co.uk/favicon.ico",
+      "channels": {
+        "Top Stories": "http://feeds.bbci.co.uk/news/rss.xml",
+        "World": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "UK": "http://feeds.bbci.co.uk/news/uk/rss.xml",
+        "Business": "http://feeds.bbci.co.uk/news/business/rss.xml",
+        "Politics": "http://feeds.bbci.co.uk/news/politics/rss.xml",
+        "Health": "http://feeds.bbci.co.uk/news/health/rss.xml",
+        "Education & Family": "http://feeds.bbci.co.uk/news/education/rss.xml",
+        "Science & Environment": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+        "Technology": "http://feeds.bbci.co.uk/news/technology/rss.xml",
+        "Entertainment & Arts": "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+        "Africa": "http://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "Asia": "http://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "Europe": "http://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "Latin America": "http://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "Middle East": "http://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "US & Canada": "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "England": "http://feeds.bbci.co.uk/news/england/rss.xml",
+        "Northern Ireland": "http://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+        "Scotland": "http://feeds.bbci.co.uk/news/scotland/rss.xml",
+        "Wales": "http://feeds.bbci.co.uk/news/wales/rss.xml",
+        "Latest published stories": "http://feeds.bbci.co.uk/news/system/latest_published_content/rss.xml",
+        "Magazine": "http://feeds.bbci.co.uk/news/magazine/rss.xml",
+        "Also in the news": "http://feeds.bbci.co.uk/news/also_in_the_news/rss.xml",
+        "In Pictures": "http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_pictures/rss.xml",
+        "Special Reports": "http://feeds.bbci.co.uk/news/special_reports/rss.xml",
+        "Have your say": "http://feeds.bbci.co.uk/news/have_your_say/rss.xml",
+        "Editors Blog": "https://www.bbc.co.uk/blogs/theeditors/rss.xml",
+        "BBC Sport feeds": "https://news.bbc.co.uk/sport1/hi/help/rss/default.stm"
+      }
+    },
+    {
+      "title": "CBC News",
+      "nickname": "CBC",
+      "website": "https://www.cbc.ca",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "canada",
+        "public"
+      ],
+      "feedlist": "https://www.cbc.ca/rss/",
+      "favicon": "https://www.cbc.ca/favicon.ico",
+      "channels": {
+        "Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
+        "World": "https://rss.cbc.ca/lineup/world.xml",
+        "Canada": "https://rss.cbc.ca/lineup/canada.xml",
+        "Politics": "https://rss.cbc.ca/lineup/politics.xml",
+        "Business": "https://rss.cbc.ca/lineup/business.xml",
+        "Health": "https://rss.cbc.ca/lineup/health.xml",
+        "Arts & Entertainment": "https://rss.cbc.ca/lineup/arts.xml",
+        "Technology & Science": "https://rss.cbc.ca/lineup/technology.xml",
+        "Offbeat": "https://rss.cbc.ca/lineup/offbeat.xml",
+        "Indigenous": "https://www.cbc.ca/cmlink/rss-Indigenous",
+        "Sports": "https://rss.cbc.ca/lineup/sports.xml",
+        "MLB": "https://rss.cbc.ca/lineup/sports-mlb.xml",
+        "NBA": "https://rss.cbc.ca/lineup/sports-nba.xml",
+        "Curling": "https://rss.cbc.ca/lineup/sports-curling.xml",
+        "CFL": "https://rss.cbc.ca/lineup/sports-cfl.xml",
+        "NFL": "https://rss.cbc.ca/lineup/sports-nfl.xml",
+        "NHL": "https://rss.cbc.ca/lineup/sports-nhl.xml",
+        "Soccer": "https://rss.cbc.ca/lineup/sports-soccer.xml",
+        "The National - In Depth Reports": "https://rss.cbc.ca/lineup/thenational.xml",
+        "British Columbia": "https://rss.cbc.ca/lineup/canada-britishcolumbia.xml",
+        "Calgary": "https://rss.cbc.ca/lineup/canada-calgary.xml",
+        "Edmonton": "https://rss.cbc.ca/lineup/canada-edmonton.xml",
+        "Hamilton": "https://rss.cbc.ca/lineup/canada-hamiltonnews.xml",
+        "Kamloops": "https://rss.cbc.ca/lineup/canada-kamloops.xml",
+        "Kitchener-Waterloo": "https://rss.cbc.ca/lineup/canada-kitchenerwaterloo.xml",
+        "London": "https://www.cbc.ca/cmlink/rss-canada-london",
+        "Manitoba": "https://rss.cbc.ca/lineup/canada-manitoba.xml",
+        "Montreal": "https://rss.cbc.ca/lineup/canada-montreal.xml",
+        "New Brunswick": "https://rss.cbc.ca/lineup/canada-newbrunswick.xml",
+        "Newfoundland & Labrador": "https://rss.cbc.ca/lineup/canada-newfoundland.xml",
+        "North": "https://rss.cbc.ca/lineup/canada-north.xml",
+        "Nova Scotia": "https://rss.cbc.ca/lineup/canada-novascotia.xml",
+        "Ottawa": "https://www.cbc.ca/cmlink/rss-canada-ottawa",
+        "Prince Edward Island": "https://rss.cbc.ca/lineup/canada-pei.xml",
+        "Saskatchewan": "https://rss.cbc.ca/lineup/canada-saskatchewan.xml",
+        "Saskatoon": "https://rss.cbc.ca/lineup/canada-saskatoon.xml",
+        "Sudbury": "https://rss.cbc.ca/lineup/canada-sudbury.xml",
+        "Thunder Bay": "https://rss.cbc.ca/lineup/canada-thunderbay.xml",
+        "Windsor": "https://rss.cbc.ca/lineup/canada-windsor.xml",
+        "Toronto": "https://rss.cbc.ca/lineup/canada-toronto.xml"
+      }
+    }
+  ]
+}

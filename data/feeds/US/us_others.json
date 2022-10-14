@@ -19,55 +19,6 @@
             }
         },
         {
-            "title": "Phys.org",
-            "nickname": "Phys.org",
-            "website": "https://phys.org/",
-            "description": "",
-            "language": "english",
-            "keywords": [
-                "journal",
-                "science",
-                "physics"
-            ],
-            "feedlist": "https://phys.org/feeds/",
-            "favicon": "https://phys.org/favicon.ico",
-            "channels": {
-                "All News": "https://phys.org/rss-feed/",
-                "Earth": "https://phys.org/rss-feed/earth-news/",
-                "Other Sciences": "https://phys.org/rss-feed/science-news/",
-                "Nanotechnology": "https://phys.org/rss-feed/nanotech-news/",
-                "Physics": "https://phys.org/rss-feed/physics-news/",
-                "Astronomy & Space": "https://phys.org/rss-feed/space-news/",
-                "Biology": "https://phys.org/rss-feed/biology-news/",
-                "Chemistry": "https://phys.org/rss-feed/chemistry-news/"
-            }
-        },
-        {
-            "title": "New Scientist",
-            "nickname": "New Scientist",
-            "website": "https://www.newscientist.com/",
-            "description": "",
-            "language": "english",
-            "keywords": [
-                "journal",
-                "science"
-            ],
-            "feedlist": "https://www.newscientist.com/rss-feeds/",
-            "favicon": "https://www.newscientist.com/favicon.ico",
-            "channels": {
-                "All articles": "https://www.newscientist.com/feed/home/",
-                "News": "https://www.newscientist.com/section/news/feed/",
-                "Features": "https://www.newscientist.com/section/features/feed/",
-                "Physics": "https://www.newscientist.com/subject/physics/feed/",
-                "Technology": "https://www.newscientist.com/subject/technology/feed/",
-                "Space": "https://www.newscientist.com/subject/space/feed/",
-                "Life": "https://www.newscientist.com/subject/life/feed/",
-                "Earth": "https://www.newscientist.com/subject/earth/feed/",
-                "Health": "https://www.newscientist.com/subject/health/feed/",
-                "Humans": "https://www.newscientist.com/subject/humans/feed/"
-            }
-        },
-        {
             "title": "WIRED",
             "nickname": "WIRED",
             "website": "https://www.wired.com",

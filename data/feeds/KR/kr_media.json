@@ -4,7 +4,7 @@
     "data": [
         {
             "title": "경향신문",
-            "nickname": "경향신문",
+            "nickname": "경향",
             "website": "https://www.khan.co.kr/",
             "description": "",
             "language": "korean",
@@ -103,7 +103,7 @@
         },
         {
             "title": "노컷뉴스",
-            "nickname": "노컷뉴스",
+            "nickname": "노컷",
             "website": "https://nocutnews.co.kr/",
             "description": "",
             "language": "korean",
@@ -172,7 +172,7 @@
         },
         {
             "title": "매일경제",
-            "nickname": "매일경제",
+            "nickname": "매경",
             "website": "https://www.mk.co.kr/",
             "description": "",
             "language": "korean",
@@ -266,26 +266,6 @@
                 "스포츠": "https://www.khan.co.kr/rss/rssdata/sksports_news.xml",
                 "연예": "https://www.khan.co.kr/rss/rssdata/sk_entertainment.xml",
                 "생활·레저": "https://www.khan.co.kr/rss/rssdata/skentertain_news.xml"
-            }
-        },
-        {
-            "title": "스포츠동아",
-            "nickname": "스포츠동아",
-            "website": "https://sports.donga.com/",
-            "description": "",
-            "language": "korean",
-            "keywords": [
-                "뉴스",
-                "스포츠"
-            ],
-            "feedlist": "http://rss.donga.com/",
-            "favicon": "https://sports.donga.com/favicon.ico",
-            "channels": {
-                "야구&MLB": "https://rss.donga.com/sportsdonga/baseball.xml",
-                "축구": "https://rss.donga.com/sportsdonga/soccer.xml",
-                "골프": "https://rss.donga.com/sportsdonga/golf.xml",
-                "종합": "https://rss.donga.com/sportsdonga/sports_general.xml",
-                "엔터테인먼트": "https://rss.donga.com/sportsdonga/entertainment.xml"
             }
         },
         {
@@ -442,7 +422,7 @@
         },
         {
             "title": "오마이뉴스",
-            "nickname": "오마이뉴스",
+            "nickname": "오마이",
             "website": "http://www.ohmynews.com",
             "description": "",
             "language": "korean",
@@ -589,7 +569,7 @@
         },
         {
             "title": "jtbc 뉴스",
-            "nickname": "jtbc 뉴스",
+            "nickname": "jtbc",
             "website": "https://news.jtbc.joins.com",
             "description": "",
             "language": "korean",
@@ -639,7 +619,7 @@
         },
         {
             "title": "파이낸셜 뉴스",
-            "nickname": "파이낸셜 뉴스",
+            "nickname": "파이낸셜",
             "website": "https://www.fnnews.com",
             "description": "",
             "language": "korean",
@@ -702,7 +682,7 @@
         },
         {
             "title": "한국경제신문",
-            "nickname": "한국경제신문",
+            "nickname": "한경",
             "website": "https://hankyung.com/",
             "description": "",
             "language": "korean",

@@ -1,0 +1,24 @@
+{
+    "version": 1,
+    "createdAt": "2022-03-03 12:12:00.000Z",
+    "data": [
+        {
+            "title": "Reddit",
+            "nickname": "Reddit",
+            "website": "https://www.reddit.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "community"
+            ],
+            "feedlist": "https://www.reddit.com/wiki/rss",
+            "favicon": "https://www.reddit.com/favicon.ico",
+            "channels": {
+                "r/canada": "https://www.reddit.com/r/canada/.rss",
+                "r/ottawa": "https://www.reddit.com/r/ottawa/.rss",
+                "r/montreal": "https://www.reddit.com/r/montreal/.rss",
+                "r/toronto": "https://www.reddit.com/r/toronto/.rss"
+            }
+        }
+    ]
+}

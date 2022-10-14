@@ -4,7 +4,7 @@
     "data": [
         {
             "title": "CBC News",
-            "nickname": "CBC News",
+            "nickname": "CBC",
             "website": "https://www.cbc.ca",
             "description": "",
             "language": "english",
@@ -60,7 +60,7 @@
         },
         {
             "title": "The Globe and Mail",
-            "nickname": "G & M",
+            "nickname": "G&M",
             "website": "https://www.theglobeandmail.com/",
             "description": "",
             "language": "english",

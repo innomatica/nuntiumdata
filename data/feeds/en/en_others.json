@@ -3,6 +3,55 @@
     "createdAt": "2022-03-03 12:12:00.000Z",
     "data": [
         {
+            "title": "Phys.org",
+            "nickname": "Phys",
+            "website": "https://phys.org/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "journal",
+                "science",
+                "physics"
+            ],
+            "feedlist": "https://phys.org/feeds/",
+            "favicon": "https://phys.org/favicon.ico",
+            "channels": {
+                "All News": "https://phys.org/rss-feed/",
+                "Earth": "https://phys.org/rss-feed/earth-news/",
+                "Other Sciences": "https://phys.org/rss-feed/science-news/",
+                "Nanotechnology": "https://phys.org/rss-feed/nanotech-news/",
+                "Physics": "https://phys.org/rss-feed/physics-news/",
+                "Astronomy & Space": "https://phys.org/rss-feed/space-news/",
+                "Biology": "https://phys.org/rss-feed/biology-news/",
+                "Chemistry": "https://phys.org/rss-feed/chemistry-news/"
+            }
+        },
+        {
+            "title": "New Scientist",
+            "nickname": "New Sci",
+            "website": "https://www.newscientist.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "journal",
+                "science"
+            ],
+            "feedlist": "https://www.newscientist.com/rss-feeds/",
+            "favicon": "https://www.newscientist.com/favicon.ico",
+            "channels": {
+                "All articles": "https://www.newscientist.com/feed/home/",
+                "News": "https://www.newscientist.com/section/news/feed/",
+                "Features": "https://www.newscientist.com/section/features/feed/",
+                "Physics": "https://www.newscientist.com/subject/physics/feed/",
+                "Technology": "https://www.newscientist.com/subject/technology/feed/",
+                "Space": "https://www.newscientist.com/subject/space/feed/",
+                "Life": "https://www.newscientist.com/subject/life/feed/",
+                "Earth": "https://www.newscientist.com/subject/earth/feed/",
+                "Health": "https://www.newscientist.com/subject/health/feed/",
+                "Humans": "https://www.newscientist.com/subject/humans/feed/"
+            }
+        },
+        {
             "title": "Reddit",
             "nickname": "Reddit",
             "website": "https://www.reddit.com/",
@@ -40,16 +89,12 @@
                 "r/cats": "https://www.reddit.com/r/cats/.rss",
                 "r/doctorwho": "https://www.reddit.com/r/doctorwho/.rss",
                 "r/MURICA": "https://www.reddit.com/r/MURICA/.rss",
-                "r/firstworldanarchists": "https://www.reddit.com/r/firstworldanarchists/.rss",
-                "r/canada": "https://www.reddit.com/r/canada/.rss",
-                "r/ottawa": "https://www.reddit.com/r/ottawa/.rss",
-                "r/montreal": "https://www.reddit.com/r/montreal/.rss",
-                "r/toronto": "https://www.reddit.com/r/toronto/.rss"
+                "r/firstworldanarchists": "https://www.reddit.com/r/firstworldanarchists/.rss"
             }
         },
         {
             "title": "Hacker News",
-            "nickname": "Hacker News",
+            "nickname": "Hacker",
             "website": "https://news.ycombinator.com/",
             "description": "",
             "language": "english",
@@ -61,6 +106,33 @@
             "favicon": "https://news.ycombinator.com/favicon.ico",
             "channels": {
                 "Newest": "https://hnrss.org/newest"
+            }
+        },
+        {
+            "title": "NASA",
+            "nickname": "NASA",
+            "website": "https://www.nasa.gov/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "science"
+            ],
+            "feedlist": "https://www.nasa.gov/content/nasa-rss-feeds",
+            "favicon": "https://www.nasa.gov/favicon.ico",
+            "channels": {
+                "Breaking News": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+                "Education News": "https://www.nasa.gov/rss/dyn/educationnews.rss",
+                "Image of the Day": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+                "ISS Report":"http://blogs.nasa.gov/stationreport/feed/",
+                "On the Station":"https://www.nasa.gov/rss/dyn/onthestation_rss.rss",
+                "Kepler Mission":"https://www.nasa.gov/rss/dyn/mission_pages/kepler/news/kepler-newsandfeatures-RSS.rss",
+                "Chandra Mission":"http://www.nasa.gov/rss/dyn/chandra_images.rss",
+                "Space Station":"https://www.nasa.gov/rss/dyn/shuttle_station.rss",
+                "Solar System and Beyond":"https://www.nasa.gov/rss/dyn/solar_system.rss",
+                "Earth":"https://www.nasa.gov/rss/dyn/earth.rss",
+                "Aeronautics":"https://www.nasa.gov/rss/dyn/aeronautics.rss",
+                "Hurricane Update":"https://www.nasa.gov/rss/dyn/hurricaneupdate.rss"
             }
         }
     ]
