@@ -77,5 +77,5 @@ if __name__ == '__main__':
             "data":feeds
         }
         # save it to the file
-        with open(output_dir + '/feeds_' + language + '_' + country.lower() + '.json', 'w') as f:
+        with open(output_dir + '/feeds_' + language + '_' + country + '.json', 'w') as f:
             json.dump(output, f, indent=2)
