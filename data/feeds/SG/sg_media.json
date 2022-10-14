@@ -1,0 +1,32 @@
+{
+    "version": 1,
+    "createdAt": "2022-03-03 12:12:00.000Z",
+    "data": [
+        {
+            "title": "경향신문",
+            "nickname": "경향신문",
+            "website": "https://www.khan.co.kr/",
+            "description": "",
+            "language": "korean",
+            "keywords": [
+                "뉴스"
+            ],
+            "feedlist": "https://www.khan.co.kr/help/help_rss.html",
+            "favicon": "https://www.khan.co.kr/favicon.ico",
+            "channels": {
+                "전체뉴스": "https://www.khan.co.kr/rss/rssdata/total_news.xml",
+                "정치": "https://www.khan.co.kr/rss/rssdata/politic_news.xml",
+                "경제": "https://www.khan.co.kr/rss/rssdata/economy_news.xml",
+                "사회": "https://www.khan.co.kr/rss/rssdata/society_news.xml",
+                "국제": "https://www.khan.co.kr/rss/rssdata/kh_world.xml",
+                "스포츠": "http://www.khan.co.kr/rss/rssdata/kh_sports.xml",
+                "문화": "https://www.khan.co.kr/rss/rssdata/culture_news.xml",
+                "연예": "https://www.khan.co.kr/rss/rssdata/kh_entertainment.xml",
+                "IT": "http://www.khan.co.kr/rss/rssdata/it_news.xml",
+                "전국": "https://www.khan.co.kr/rss/rssdata/local_news.xml",
+                "인물": "https://www.khan.co.kr/rss/rssdata/people_news.xml",
+                "오피니언": "https://www.khan.co.kr/rss/rssdata/opinion_news.xml"
+            }
+        }
+    ]
+}

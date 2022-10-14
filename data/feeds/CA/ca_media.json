@@ -1,0 +1,147 @@
+{
+    "version": 1,
+    "createdAt": "2022-03-03 12:12:00.000Z",
+    "data": [
+        {
+            "title": "CBC News",
+            "nickname": "CBC News",
+            "website": "https://www.cbc.ca",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "canada",
+                "public"
+            ],
+            "feedlist": "https://www.cbc.ca/rss/",
+            "favicon": "https://www.cbc.ca/favicon.ico",
+            "channels": {
+                "Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
+                "World": "https://rss.cbc.ca/lineup/world.xml",
+                "Canada": "https://rss.cbc.ca/lineup/canada.xml",
+                "Politics": "https://rss.cbc.ca/lineup/politics.xml",
+                "Business": "https://rss.cbc.ca/lineup/business.xml",
+                "Health": "https://rss.cbc.ca/lineup/health.xml",
+                "Arts & Entertainment": "https://rss.cbc.ca/lineup/arts.xml",
+                "Technology & Science": "https://rss.cbc.ca/lineup/technology.xml",
+                "Offbeat": "https://rss.cbc.ca/lineup/offbeat.xml",
+                "Indigenous": "https://www.cbc.ca/cmlink/rss-Indigenous",
+                "Sports": "https://rss.cbc.ca/lineup/sports.xml",
+                "MLB": "https://rss.cbc.ca/lineup/sports-mlb.xml",
+                "NBA": "https://rss.cbc.ca/lineup/sports-nba.xml",
+                "Curling": "https://rss.cbc.ca/lineup/sports-curling.xml",
+                "CFL": "https://rss.cbc.ca/lineup/sports-cfl.xml",
+                "NFL": "https://rss.cbc.ca/lineup/sports-nfl.xml",
+                "NHL": "https://rss.cbc.ca/lineup/sports-nhl.xml",
+                "Soccer": "https://rss.cbc.ca/lineup/sports-soccer.xml",
+                "The National - In Depth Reports": "https://rss.cbc.ca/lineup/thenational.xml",
+                "British Columbia": "https://rss.cbc.ca/lineup/canada-britishcolumbia.xml",
+                "Calgary": "https://rss.cbc.ca/lineup/canada-calgary.xml",
+                "Edmonton": "https://rss.cbc.ca/lineup/canada-edmonton.xml",
+                "Hamilton": "https://rss.cbc.ca/lineup/canada-hamiltonnews.xml",
+                "Kamloops": "https://rss.cbc.ca/lineup/canada-kamloops.xml",
+                "Kitchener-Waterloo": "https://rss.cbc.ca/lineup/canada-kitchenerwaterloo.xml",
+                "London": "https://www.cbc.ca/cmlink/rss-canada-london",
+                "Manitoba": "https://rss.cbc.ca/lineup/canada-manitoba.xml",
+                "Montreal": "https://rss.cbc.ca/lineup/canada-montreal.xml",
+                "New Brunswick": "https://rss.cbc.ca/lineup/canada-newbrunswick.xml",
+                "Newfoundland & Labrador": "https://rss.cbc.ca/lineup/canada-newfoundland.xml",
+                "North": "https://rss.cbc.ca/lineup/canada-north.xml",
+                "Nova Scotia": "https://rss.cbc.ca/lineup/canada-novascotia.xml",
+                "Ottawa": "https://www.cbc.ca/cmlink/rss-canada-ottawa",
+                "Prince Edward Island": "https://rss.cbc.ca/lineup/canada-pei.xml",
+                "Saskatchewan": "https://rss.cbc.ca/lineup/canada-saskatchewan.xml",
+                "Saskatoon": "https://rss.cbc.ca/lineup/canada-saskatoon.xml",
+                "Sudbury": "https://rss.cbc.ca/lineup/canada-sudbury.xml",
+                "Thunder Bay": "https://rss.cbc.ca/lineup/canada-thunderbay.xml",
+                "Windsor": "https://rss.cbc.ca/lineup/canada-windsor.xml",
+                "Toronto": "https://rss.cbc.ca/lineup/canada-toronto.xml"
+            }
+        },
+        {
+            "title": "The Globe and Mail",
+            "nickname": "G & M",
+            "website": "https://www.theglobeandmail.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "canada"
+            ],
+            "feedlist": "https://globeandmail.force.com/helpcentre/s/article/New-RSS-feed-URL-structure-introduced",
+            "favicon": "https://globeandmail.force.com/helpcentre/favicon.ico?v=2",
+            "channels": {
+                "Canada":"https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/canada",
+                "World":"https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/world",
+                "Business":"https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business",
+                "Investing":"https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/investing",
+                "Opinion":"https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/opinion",
+                "Politics":"https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/politics/",
+                "sports":"https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/sports/",
+                "Life":"https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/life/",
+                "Arts":"https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/arts/",
+                "Drive":"https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/drive/",
+                "Real Estate":"https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/real-estate/",
+                "Personal Finance":"https://www.theglobeandmail.com/rss/section/investing/personal-finance/"
+            }
+        },
+        {
+            "title": "Toronto Star",
+            "nickname": "TorStar",
+            "website": "https://www.thestar.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "canada"
+            ],
+            "feedlist": "https://www.thestar.com/about/rssfeeds.html",
+            "favicon": "https://www.thestar.com/favicon-thestar.ico",
+            "channels": {
+                "Top Stories":"https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.topstories.rss",
+                "GTA":"https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.news.gta.rss",
+                "Canada":"https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.news.canada.rss",
+                "World":"https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.news.world.rss",
+                "Investigations":"https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.news.investigations.rss",
+                "Opinion":"https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.opinion.rss",
+                "Politics":"https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.politics.rss",
+                "Business":"https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.business.rss",
+                "Sports":"https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.sports.rss",
+                "Entertainment":"https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.entertainment.rss",
+                "Life":"https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.life.rss",
+                "Real Estate":"https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.real-estate.rss"
+            }
+        },
+        {
+            "title": "Le Devoir",
+            "nickname": "Devoir",
+            "website": "https://www.thestaledevoir.com/",
+            "description": "",
+            "language": "french",
+            "keywords": [
+                "news",
+                "canada"
+            ],
+            "feedlist": "https://www.ledevoir.com/flux-rss",
+            "favicon": "https://www.ledevoir.com/favicon.ico",
+            "channels": {
+                "Opinion":"https://www.ledevoir.com/rss/section/opinion.xml?id=1500",
+                "Canada":"https://www.ledevoir.com/rss/section/politique/canada.xml",
+                "Québec":"https://www.ledevoir.com/rss/section/politique/quebec.xml",
+                "Montréal":"https://www.ledevoir.com/rss/section/politique/montreal.xml",
+                "Ville de Québec":"https://www.ledevoir.com/rss/section/politique/ville-de-quebec.xml",
+                "Régions":"https://www.ledevoir.com/rss/section/politique/regions.xml",
+                "Environnement":"https://www.ledevoir.com/rss/section/environnement.xml?id=78",
+                "Société":"https://www.ledevoir.com/rss/section/societe.xml?id=52",
+                "Économie":"https://www.ledevoir.com/rss/section/economie.xml?id=49",
+                "Monde":"https://www.ledevoir.com/rss/section/monde.xml?id=76",
+                "Culture":"https://www.ledevoir.com/rss/section/culture.xml?id=48",
+                "Lire":"https://www.ledevoir.com/rss/section/lire.xml?id=1513",
+                "Vivre":"https://www.ledevoir.com/rss/section/vivre.xml?id=50",
+                "Sports":"https://www.ledevoir.com/rss/section/sports.xml?id=85",
+                "Vidéos":"https://www.ledevoir.com/rss/section/videos.xml?id=1515",
+                "Dépêches":"https://www.ledevoir.com/rss/section/depeches.xml?id=4236"
+            }
+        }
+    ]
+}

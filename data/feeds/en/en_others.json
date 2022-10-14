@@ -1,0 +1,67 @@
+{
+    "version": 1,
+    "createdAt": "2022-03-03 12:12:00.000Z",
+    "data": [
+        {
+            "title": "Reddit",
+            "nickname": "Reddit",
+            "website": "https://www.reddit.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "community"
+            ],
+            "feedlist": "https://www.reddit.com/wiki/rss",
+            "favicon": "https://www.reddit.com/favicon.ico",
+            "channels": {
+                "r/funny": "https://www.reddit.com/r/funny/.rss",
+                "r/aww": "https://www.reddit.com/r/aww/.rss",
+                "r/pics": "https://www.reddit.com/r/pics/.rss",
+                "r/science": "https://www.reddit.com/r/science/.rss",
+                "r/worldnews": "https://www.reddit.com/r/worldnews/.rss",
+                "r/news": "https://www.reddit.com/r/news/.rss",
+                "r/videos": "https://www.reddit.com/r/videos/.rss",
+                "r/IAmA": "https://www.reddit.com/r/IAmA/.rss",
+                "r/todayilearned": "https://www.reddit.com/r/todayilearned/.rss",
+                "r/atheism": "https://www.reddit.com/r/atheism/.rss",
+                "r/technology": "https://www.reddit.com/r/technology/.rss",
+                "r/AdviceAnimals": "https://www.reddit.com/r/AdviceAnimals/.rss",
+                "r/Music": "https://www.reddit.com/r/Music/.rss",
+                "r/movies": "https://www.reddit.com/r/movies/.rss",
+                "r/bestof": "https://www.reddit.com/r/bestof/.rss",
+                "r/trees": "https://www.reddit.com/r/trees/.rss",
+                "r/gifs": "https://www.reddit.com/r/gifs/.rss",
+                "r/reactiongifs": "https://www.reddit.com/r/reactiongifs/.rss",
+                "r/mildlyinteresting": "https://www.reddit.com/r/mildlyinteresting/.rss",
+                "r/fffffffuuuuuuuuuuuu": "https://www.reddit.com/r/fffffffuuuuuuuuuuuu/.rss",
+                "r/woahdude": "https://www.reddit.com/r/woahdude/.rss",
+                "r/arresteddevelopment": "https://www.reddit.com/r/arresteddevelopment/.rss",
+                "r/gameofthrones": "https://www.reddit.com/r/gameofthrones/.rss",
+                "r/cats": "https://www.reddit.com/r/cats/.rss",
+                "r/doctorwho": "https://www.reddit.com/r/doctorwho/.rss",
+                "r/MURICA": "https://www.reddit.com/r/MURICA/.rss",
+                "r/firstworldanarchists": "https://www.reddit.com/r/firstworldanarchists/.rss",
+                "r/canada": "https://www.reddit.com/r/canada/.rss",
+                "r/ottawa": "https://www.reddit.com/r/ottawa/.rss",
+                "r/montreal": "https://www.reddit.com/r/montreal/.rss",
+                "r/toronto": "https://www.reddit.com/r/toronto/.rss"
+            }
+        },
+        {
+            "title": "Hacker News",
+            "nickname": "Hacker News",
+            "website": "https://news.ycombinator.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "it"
+            ],
+            "feedlist": "https://hnrss.github.io/",
+            "favicon": "https://news.ycombinator.com/favicon.ico",
+            "channels": {
+                "Newest": "https://hnrss.org/newest"
+            }
+        }
+    ]
+}

@@ -1,0 +1,266 @@
+{
+    "version": 1,
+    "createdAt": "2022-03-03 12:12:00.000Z",
+    "data": [
+        {
+            "title": "CNBC News",
+            "nickname": "CNBC",
+            "website": "https://www.cnbc.com",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "usa"
+            ],
+            "feedlist": "https://www.cnbc.com/rss-feeds/",
+            "favicon": "https://www.cnbc.com/favicon.ico",
+            "channels": {
+                "Top News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+                "World News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+                "US News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15837362",
+                "Asia News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19832390",
+                "Europe News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19794221",
+                "Business": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147",
+                "Earnings": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135",
+                "Commentary": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100370673",
+                "Economy": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
+                "Finance": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+                "Technology": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
+                "Politics": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000113",
+                "Health Care": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000108",
+                "Real Estate": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000115",
+                "Wealth": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001054",
+                "Autos": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000101",
+                "Energy": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19836768",
+                "Media": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000110",
+                "Retail": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000116",
+                "Travel": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000739",
+                "Small Business": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=44877279"
+            }
+        },
+        {
+            "title": "CNN News",
+            "nickname": "CNN",
+            "website": "https://www.cnn.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "usa"
+            ],
+            "feedlist": "https://www.cnn.com/services/rss/",
+            "favicon": "https://www.cnn.com/favicon.ico",
+            "channels": {
+                "Top Stories": "http://rss.cnn.com/rss/cnn_topstories.rss",
+                "World": "http://rss.cnn.com/rss/cnn_world.rss",
+                "U.S.": "http://rss.cnn.com/rss/cnn_us.rss",
+                "Politics": "http://rss.cnn.com/rss/cnn_allpolitics.rss",
+                "Technology": "http://rss.cnn.com/rss/cnn_tech.rss",
+                "Health": "http://rss.cnn.com/rss/cnn_health.rss",
+                "Entertainment": "http://rss.cnn.com/rss/cnn_showbiz.rss",
+                "Travel": "http://rss.cnn.com/rss/cnn_travel.rss",
+                "Video": "http://rss.cnn.com/rss/cnn_freevideo.rss",
+                "CNN 10": "http://rss.cnn.com/services/podcasting/cnn10/rss.xml",
+                "Most Recent": "http://rss.cnn.com/rss/cnn_latest.rss",
+                "CNN Underscored": "http://rss.cnn.com/cnn-underscored"
+            }
+        },
+        {
+            "title": "CNN Money",
+            "nickname": "CNN",
+            "website": "https://money.cnn.com",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "business"
+            ],
+            "feedlist": "https://money.cnn.com/services/rss/",
+            "favicon": "https://money.cnn.com/favicon.ico",
+            "channels": {
+                "All Stories": "http://rss.cnn.com/rss/money_latest.rss",
+                "Top Stories": "http://rss.cnn.com/rss/money_topstories.rss",
+                "Most Popular": "http://rss.cnn.com/rss/money_mostpopular.rss",
+                "Companies": "http://rss.cnn.com/rss/money_news_companies.rss",
+                "International": "http://rss.cnn.com/rss/money_news_international.rss",
+                "Economy": "http://rss.cnn.com/rss/money_news_economy.rss",
+                "Video": "http://rss.cnn.com/rss/money_video_business.rss",
+                "Media": "http://rss.cnn.com/rss/money_media.rss",
+                "Markets": "http://rss.cnn.com/rss/money_markets.rss",
+                "The Buzz": "http://rss.cnn.com/cnnmoneymorningbuzz",
+                "Technology": "http://rss.cnn.com/rss/money_technology.rss",
+                "Personal Finance": "http://rss.cnn.com/rss/money_pf.rss",
+                "Autos": "http://rss.cnn.com/rss/money_autos.rss",
+                "Funds": "http://rss.cnn.com/rss/money_funds.rss",
+                "College": "http://rss.cnn.com/rss/money_pf_college.rss",
+                "Insurance": "http://rss.cnn.com/rss/money_pf_insurance.rss",
+                "Taxes": "http://rss.cnn.com/rss/money_pf_taxes.rss",
+                "Retirement": "http://rss.cnn.com/rss/money_retirement.rss",
+                "Lifestyle": "http://rss.cnn.com/rss/money_lifestyle.rss",
+                "Real Estate": "http://rss.cnn.com/rss/money_realestate.rss",
+                "Luxury": "http://rss.cnn.com/rss/money_luxury.rss",
+                "Small Business": "http://rss.cnn.com/rss/money_smbusiness.rss"
+            }
+        },
+        {
+            "title": "New York Times, The",
+            "nickname": "NYT",
+            "website": "https://www.nytimes.com",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "usa"
+            ],
+            "feedlist": "https://www.nytimes.com/rss",
+            "favicon": "https://www.nytimes.com/favicon.ico",
+            "channels": {
+                "World": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+                "Africa": "https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml",
+                "Americas": "https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml",
+                "Asia Pacific": "https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml",
+                "Europe": "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml",
+                "Middle East": "https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml",
+                "U.S.": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
+                "Education": "https://rss.nytimes.com/services/xml/rss/nyt/Education.xml",
+                "Politics": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+                "The Upshot": "https://rss.nytimes.com/services/xml/rss/nyt/Upshot.xml",
+                "N.Y./Region": "https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml",
+                "Business": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+                "Energy & Environment": "https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml",
+                "Small Business": "https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml",
+                "Economy": "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml",
+                "DealBook": "https://rss.nytimes.com/services/xml/rss/nyt/Dealbook.xml",
+                "Media & Advertising": "https://rss.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml",
+                "Your Money": "https://rss.nytimes.com/services/xml/rss/nyt/YourMoney.xml",
+                "Technology": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+                "Personal Tech": "https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml",
+                "Sports": "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+                "Baseball": "https://rss.nytimes.com/services/xml/rss/nyt/Baseball.xml",
+                "College Basketball": "https://rss.nytimes.com/services/xml/rss/nyt/CollegeBasketball.xml",
+                "College Football": "https://rss.nytimes.com/services/xml/rss/nyt/CollegeFootball.xml",
+                "Golf": "https://rss.nytimes.com/services/xml/rss/nyt/Golf.xml",
+                "Hockey": "https://rss.nytimes.com/services/xml/rss/nyt/Hockey.xml",
+                "Pro-Basketball": "https://rss.nytimes.com/services/xml/rss/nyt/ProBasketball.xml",
+                "Pro-Football": "https://rss.nytimes.com/services/xml/rss/nyt/ProFootball.xml",
+                "Soccer": "https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml",
+                "Tennis": "https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml",
+                "Science": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+                "Environment": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml",
+                "Space & Cosmos": "https://rss.nytimes.com/services/xml/rss/nyt/Space.xml",
+                "Health": "https://www.nytimes.com/services/xml/rss/nyt/Health.xml",
+                "Well Blog": "https://rss.nytimes.com/services/xml/rss/nyt/Well.xml",
+                "Arts": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
+                "Art & Design": "https://rss.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml",
+                "Books": "https://rss.nytimes.com/services/xml/rss/nyt/Books.xml",
+                "Sunday Book Review": "https://rss.nytimes.com/services/xml/rss/nyt/SundayBookReview.xml",
+                "Dance": "https://rss.nytimes.com/services/xml/rss/nyt/Dance.xml",
+                "Movies": "https://rss.nytimes.com/services/xml/rss/nyt/Movies.xml",
+                "Music": "https://rss.nytimes.com/services/xml/rss/nyt/Music.xml",
+                "Television": "https://rss.nytimes.com/services/xml/rss/nyt/Television.xml",
+                "Theater": "https://rss.nytimes.com/services/xml/rss/nyt/Theater.xml",
+                "Fashion & Style": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+                "Dining & Wine": "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml",
+                "Love": "https://www.nytimes.com/services/xml/rss/nyt/Weddings.xml",
+                "T Magazine": "https://rss.nytimes.com/services/xml/rss/nyt/tmagazine.xml",
+                "Travel": "https://www.nytimes.com/services/xml/rss/nyt/Travel.xml",
+                "Sunday Review": "https://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml"
+            }
+        },
+        {
+            "title": "MarketWatch",
+            "nickname": "MarketWatch",
+            "website": "https://www.marketwatch.com",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "business"
+            ],
+            "feedlist": "https://www.marketwatch.com/rss/",
+            "favicon": "https://www.marketwatch.com/favicon.ico",
+            "channels": {
+                "Top Stories": "http://www.marketwatch.com/rss/topstories",
+                "Real-time headlines": "http://www.marketwatch.com/rss/realtimeheadlines",
+                "MarketPulse": "http://www.marketwatch.com/rss/marketpulse",
+                "Breaking News Bulletins": "http://feeds.marketwatch.com/marketwatch/bulletins",
+                "Personal Finance Stories/Columns": "http://www.marketwatch.com/rss/pf",
+                "Stocks to Watch": "http://www.marketwatch.com/rss/StockstoWatch",
+                "Internet Stories/Columns": "http://www.marketwatch.com/rss/internet",
+                "Mutual Funds": "http://www.marketwatch.com/rss/mutualfunds",
+                "Software Stories/Columns": "http://www.marketwatch.com/rss/software",
+                "Banking": "http://www.marketwatch.com/rss/financial",
+                "Financial Services Stories/Columns": "http://www.marketwatch.com/rss/financial",
+                "Commentary": "http://www.marketwatch.com/rss/commentary",
+                "Newsletters & Research": "http://www.marketwatch.com/rss/newslettersandresearch",
+                "Automotive Reviews": "http://www.marketwatch.com/rss/Autoreviews"
+            }
+        },
+        {
+            "title": "PBS NewsHour",
+            "nickname": "PBS",
+            "website": "https://www.pbs.org/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "usa",
+                "public"
+            ],
+            "feedlist": "https://www.pbs.org/newshour/subscribe#rss-feeds",
+            "favicon": "https://www.pbs.org/favicon.ico",
+            "channels": {
+                "The Latest": "https://www.pbs.org/newshour/feeds/rss/headlines",
+                "Politics": "https://www.pbs.org/newshour/feeds/rss/politics",
+                "Arts": "https://www.pbs.org/newshour/feeds/rss/arts",
+                "Nation": "https://www.pbs.org/newshour/feeds/rss/nation",
+                "World": "https://www.pbs.org/newshour/feeds/rss/world",
+                "Economy": "https://www.pbs.org/newshour/feeds/rss/economy",
+                "Science": "https://www.pbs.org/newshour/feeds/rss/science",
+                "Health": "https://www.pbs.org/newshour/feeds/rss/health",
+                "Education": "https://www.pbs.org/newshour/feeds/rss/education",
+                "Agents for Change": "https://www.pbs.org/newshour/feeds/rss/agents-for-change",
+                "American Graduate": "https://www.pbs.org/newshour/feeds/rss/american-graduate"
+            }
+        },
+        {
+            "title": "Wall Street Journal, The",
+            "nickname": "WSJ",
+            "website": "https://www.wsj.com",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "business",
+                "usa"
+            ],
+            "feedlist": "https://www.wsj.com/news/rss-news-and-feeds",
+            "favicon": "https://www.wsj.com/favicon.ico",
+            "channels": {
+                "Opinion": "https://feeds.a.dj.com/rss/RSSOpinion.xml",
+                "World News": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+                "US Business": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+                "Market News": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+                "Technology": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+                "Lifestyle": "https://feeds.a.dj.com/rss/RSSLifestyle.xml"
+            }
+        },
+        {
+            "title": "Newswire",
+            "nickname": "Newswire",
+            "website": "https://www.newswire.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "press release"
+            ],
+            "feedlist": "https://www.newswire.com/feeds",
+            "favicon": "https://www.newswire.com/favicon.ico",
+            "channels": {
+                "Premium Press Release": "https://www.newswire.com/newsroom/rss/custom/premium-press-releases",
+                "Latest Press Release": "https://www.newswire.com/newsroom/rss/custom/all-press-releases",
+                "Arts and Entertainment": "https://www.newswire.com/newsroom/rss/arts-and-entertainment"
+            }
+        }
+    ]
+}
