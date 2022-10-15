@@ -3,29 +3,98 @@
     "createdAt": "2022-03-03 12:12:00.000Z",
     "data": [
         {
-            "title": "경향신문",
-            "nickname": "경향",
-            "website": "https://www.khan.co.kr/",
+            "title": "The Straits Times",
+            "nickname": "ST",
+            "website": "https://www.straitstimes.com/",
             "description": "",
-            "language": "korean",
+            "language": "english",
             "keywords": [
-                "뉴스"
+                "news"
             ],
-            "feedlist": "https://www.khan.co.kr/help/help_rss.html",
-            "favicon": "https://www.khan.co.kr/favicon.ico",
+            "feedlist": "https://www.straitstimes.com/RSS-Feeds",
+            "favicon": "https://www.straitstimes.com/themes/custom/straitstimes/favicon.ico",
             "channels": {
-                "전체뉴스": "https://www.khan.co.kr/rss/rssdata/total_news.xml",
-                "정치": "https://www.khan.co.kr/rss/rssdata/politic_news.xml",
-                "경제": "https://www.khan.co.kr/rss/rssdata/economy_news.xml",
-                "사회": "https://www.khan.co.kr/rss/rssdata/society_news.xml",
-                "국제": "https://www.khan.co.kr/rss/rssdata/kh_world.xml",
-                "스포츠": "http://www.khan.co.kr/rss/rssdata/kh_sports.xml",
-                "문화": "https://www.khan.co.kr/rss/rssdata/culture_news.xml",
-                "연예": "https://www.khan.co.kr/rss/rssdata/kh_entertainment.xml",
-                "IT": "http://www.khan.co.kr/rss/rssdata/it_news.xml",
-                "전국": "https://www.khan.co.kr/rss/rssdata/local_news.xml",
-                "인물": "https://www.khan.co.kr/rss/rssdata/people_news.xml",
-                "오피니언": "https://www.khan.co.kr/rss/rssdata/opinion_news.xml"
+                "Opinion":"https://www.straitstimes.com/news/opinion/rss.xml",
+                "Asia":"https://www.straitstimes.com/news/asia/rss.xml"
+            }
+        },
+        {
+            "title": "The Independent",
+            "nickname": "TI",
+            "website": "https://theindependent.sg/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news"
+            ],
+            "feedlist": "https://theindependent.sg/feed/",
+            "favicon": "https://media.theindependent.sg/wp-content/uploads/2022/09/01122133/tisg-button.png",
+            "channels": {
+                "News":"https://theindependent.sg/feed/"
+            }
+        },
+        {
+            "title": "The Online Citizen",
+            "nickname": "TOC",
+            "website": "https://www.theonlinecitizen.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news"
+            ],
+            "feedlist": "https://www.theonlinecitizen.com/feed/",
+            "favicon": "https://www.theonlinecitizen.com/wp-content/uploads/2020/12/tocfav.png",
+            "channels": {
+                "News":"https://www.theonlinecitizen.com/feed/"
+            }
+        },
+        {
+            "title": "Mothership SG",
+            "nickname": "MS",
+            "website": "https://mothership.sg/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news"
+            ],
+            "feedlist": "https://mothership.sg/feed/",
+            "favicon": "https://mothership.sg/assets/images/favicon-32x32.png",
+            "channels": {
+                "News":"https://mothership.sg/feed/"
+            }
+        },
+        {
+            "title": "HardwareZone",
+            "nickname": "HZ",
+            "website": "https://www.hardwarezone.com.sg/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news"
+            ],
+            "feedlist": "https://www.hardwarezone.com.sg/feeds",
+            "favicon": "https://mothership.sg/assets/images/favicon-32x32.png",
+            "channels": {
+                "News":"https://feeds.feedburner.com/hardwarezone/news",
+                "HWZ TV":"https://feeds.feedburner.com/hardwarezone/tv",
+                "Featured":"https://feeds.feedburner.com/hardwarezone/features",
+                "Blogs":"https://feeds.feedburner.com/hardwarezone/blogs",
+                "Price Lists":"https://feeds.feedburner.com/hardwarezone/price-lists"
+            }
+        },
+        {
+            "title": "Singapore Star",
+            "nickname": "Star",
+            "website": "https://www.singaporestar.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news"
+            ],
+            "feedlist": "http://feeds.singaporestar.com/rss/a677a0718b69db72",
+            "favicon": "https://static.midwestradionetwork.com/web/premier/favicons/favicon.ico",
+            "channels": {
+                "News":"http://feeds.singaporestar.com/rss/a677a0718b69db72"
             }
         }
     ]

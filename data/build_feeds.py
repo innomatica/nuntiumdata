@@ -4,7 +4,7 @@ import json
 import glob
 import os
 
-locales = ['en_CA', 'en_HK', 'en_GB', 'en_US', 'ko_KR', 'ja_JP']
+locales = ['en_CA', 'en_HK', 'en_GB', 'en_SG', 'en_US', 'ko_KR', 'ja_JP']
 # locales = ['en_CA']
 feeds = []
 input_dir  = './feeds'
