@@ -55,28 +55,6 @@
                 "Agents for Change": "https://www.pbs.org/newshour/feeds/rss/agents-for-change",
                 "American Graduate": "https://www.pbs.org/newshour/feeds/rss/american-graduate"
             }
-        },
-        {
-            "title": "Wall Street Journal, The",
-            "nickname": "WSJ",
-            "website": "https://www.wsj.com",
-            "description": "",
-            "language": "english",
-            "keywords": [
-                "news",
-                "business",
-                "usa"
-            ],
-            "feedlist": "https://www.wsj.com/news/rss-news-and-feeds",
-            "favicon": "https://www.wsj.com/favicon.ico",
-            "channels": {
-                "Opinion": "https://feeds.a.dj.com/rss/RSSOpinion.xml",
-                "World News": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
-                "US Business": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
-                "Market News": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
-                "Technology": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-                "Lifestyle": "https://feeds.a.dj.com/rss/RSSLifestyle.xml"
-            }
         }
     ]
 }
