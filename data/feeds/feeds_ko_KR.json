@@ -1,5 +1,5 @@
 {
-  "created": "2022-10-17T15:36:27.984729",
+  "created": "2022-10-17T15:43:48.570509",
   "data": [
     {
       "title": "\uacbd\ud5a5\uc2e0\ubb38",
@@ -142,34 +142,6 @@
       }
     },
     {
-      "title": "\ub370\uc77c\ub9ac\ud55c\uad6d",
-      "nickname": "\ub370\uc77c\ub9ac\ud55c\uad6d",
-      "website": "http://daily.hankooki.com/",
-      "description": "",
-      "language": "korean",
-      "keywords": [
-        "\ub274\uc2a4"
-      ],
-      "feedlist": "http://rss.hankooki.com/",
-      "favicon": "https://cdn.daily.hankooki.com/image/logo/favicon.ico",
-      "channels": {
-        "\uc804\uccb4": "http://rss.hankooki.com/daily/dh_main.xml",
-        "\uc815\uce58": "http://rss.hankooki.com/daily/dh_politics.xml",
-        "\uacbd\uc81c": "http://rss.hankooki.com/daily/dh_economy.xml",
-        "\uc0ac\ud68c": "http://rss.hankooki.com/daily/dh_society.xml",
-        "\uad6d\uc81c": "http://rss.hankooki.com/daily/dh_world.xml",
-        "IT\u00b7\uacfc\ud559": "http://rss.hankooki.com/daily/dh_it_tech.xml",
-        "\ubb38\ud654": "http://rss.hankooki.com/daily/dh_culture.xml",
-        "\ub77c\uc774\ud504": "http://rss.hankooki.com/daily/dh_life.xml",
-        "\uce7c\ub7fc": "http://rss.hankooki.com/daily/dh_column.xml",
-        "\uc5f0\uc7ac\ubb3c": "http://rss.hankooki.com/daily/dh_series.xml",
-        "\ube44\uc988\ube0c\ub9ac\ud551": "http://rss.hankooki.com/daily/dh_biz.xml",
-        "\uba40\ud2f0\ubbf8\ub514\uc5b4 - \uc804\uccb4": "https://rss.hankooki.com/eyenews/ey00_list.xml",
-        "\uba40\ud2f0\ubbf8\ub514\uc5b4 - \ud3ec\ud1a0": "https://rss.hankooki.com/eyenews/eye_photo.xml",
-        "\uba40\ud2f0\ubbf8\ub514\uc5b4 - \ub3d9\uc601\uc0c1": "https://rss.hankooki.com/eyenews/eye_movie.xml"
-      }
-    },
-    {
       "title": "\ub9e4\uc77c\uacbd\uc81c",
       "nickname": "\ub9e4\uacbd",
       "website": "https://www.mk.co.kr/",
@@ -227,28 +199,6 @@
       }
     },
     {
-      "title": "\uc138\uacc4\ud30c\uc774\ub0b8\uc2a4",
-      "nickname": "\uc138\uacc4\ud30c\uc774\ub0b8\uc2a4",
-      "website": "http://www.segyebiz.com/",
-      "description": "",
-      "language": "korean",
-      "keywords": [
-        "\ub274\uc2a4",
-        "\uacbd\uc81c"
-      ],
-      "feedlist": "http://www.segye.com/rssInfo",
-      "favicon": "https://www.segye.com/favicon.ico",
-      "channels": {
-        "\uc804\uccb4\ub274\uc2a4": "http://www.segyefn.com/views/rss/all_recent.xml",
-        "\uae08\uc735": "http://www.segyefn.com/views/rss/finance.xml",
-        "\uc0b0\uc5c5": "http://www.segyefn.com/views/rss/industry.xml",
-        "\ubd80\ub3d9\uc0b0": "http://www.segyefn.com/views/rss/property.xml",
-        "\uc99d\uad8c": "http://www.segyefn.com/views/rss/stock.xml",
-        "\uc624\ud53c\ub2c8\uc5b8": "http://www.segyefn.com/views/rss/opinion.xml",
-        "CSR": "http://www.segyefn.com/views/rss/csr.xml"
-      }
-    },
-    {
       "title": "\uc2a4\ud3ec\uce20\uacbd\ud5a5",
       "nickname": "\uc2a4\ud3ec\uce20\uacbd\ud5a5",
       "website": "https://sports.khan.co.kr/",
@@ -265,25 +215,6 @@
         "\uc2a4\ud3ec\uce20": "https://www.khan.co.kr/rss/rssdata/sksports_news.xml",
         "\uc5f0\uc608": "https://www.khan.co.kr/rss/rssdata/sk_entertainment.xml",
         "\uc0dd\ud65c\u00b7\ub808\uc800": "https://www.khan.co.kr/rss/rssdata/skentertain_news.xml"
-      }
-    },
-    {
-      "title": "\uc2a4\ud3ec\uce20\uc6d4\ub4dc",
-      "nickname": "\uc2a4\ud3ec\uce20\uc6d4\ub4dc",
-      "website": "http://www.sportsworldi.com",
-      "description": "",
-      "language": "korean",
-      "keywords": [
-        "\ub274\uc2a4",
-        "\uc2a4\ud3ec\uce20"
-      ],
-      "feedlist": "http://www.segye.com/rssInfo",
-      "favicon": "http://www.sportsworldi.com/favicon.ico",
-      "channels": {
-        "\uc804\uccb4\ub274\uc2a4": "http://www.sportsworldi.com/Articles/feedlist/sw_recent.xml",
-        "\uc2a4\ud3ec\uce20": "http://www.sportsworldi.com/Articles/feedlist/sw_sports.xml",
-        "\uc5f0\uc608": "http://www.sportsworldi.com/Articles/feedlist/sw_entertainment.xml",
-        "\ub77c\uc774\ud504": "http://www.sportsworldi.com/Articles/feedlist/sw_life.xml"
       }
     },
     {
@@ -491,21 +422,6 @@
         "\uc624\ub9c8\uc774TV \uc800\uc790\uc640\uc758 \ub300\ud654": "http://rss.ohmynews.com/rss/podcast_authortalk_main.xml",
         "\uc774\uc288 \ud138\uc5b4\uc8fc\ub294 \ub0a8\uc790": "http://rss.ohmynews.com/RSS/podcast_etul_main.xml",
         "\uc774\ud138\ub0a8 \uc2dc\uc98c3": "http://rss.ohmynews.com/RSS/podcast_etul3_main.xml"
-      }
-    },
-    {
-      "title": "\uc774\ub370\uc77c\ub9ac",
-      "nickname": "\uc774\ub370\uc77c\ub9ac",
-      "website": "https://www.edaily.co.kr/",
-      "description": "",
-      "language": "korean",
-      "keywords": [
-        "\ub274\uc2a4"
-      ],
-      "feedlist": "https://www.edaily.co.kr/",
-      "favicon": "https://www.edaily.co.kr/v2/images/favicon.ico",
-      "channels": {
-        "\uc804\uccb4\ub274\uc2a4": "http://rss.edaily.co.kr/edaily_news.xml"
       }
     },
     {

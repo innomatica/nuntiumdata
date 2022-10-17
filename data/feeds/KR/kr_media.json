@@ -143,34 +143,6 @@
             }
         },
         {
-            "title": "데일리한국",
-            "nickname": "데일리한국",
-            "website": "http://daily.hankooki.com/",
-            "description": "",
-            "language": "korean",
-            "keywords": [
-                "뉴스"
-            ],
-            "feedlist": "http://rss.hankooki.com/",
-            "favicon": "https://cdn.daily.hankooki.com/image/logo/favicon.ico",
-            "channels": {
-                "전체": "http://rss.hankooki.com/daily/dh_main.xml",
-                "정치": "http://rss.hankooki.com/daily/dh_politics.xml",
-                "경제": "http://rss.hankooki.com/daily/dh_economy.xml",
-                "사회": "http://rss.hankooki.com/daily/dh_society.xml",
-                "국제": "http://rss.hankooki.com/daily/dh_world.xml",
-                "IT·과학": "http://rss.hankooki.com/daily/dh_it_tech.xml",
-                "문화": "http://rss.hankooki.com/daily/dh_culture.xml",
-                "라이프": "http://rss.hankooki.com/daily/dh_life.xml",
-                "칼럼": "http://rss.hankooki.com/daily/dh_column.xml",
-                "연재물": "http://rss.hankooki.com/daily/dh_series.xml",
-                "비즈브리핑": "http://rss.hankooki.com/daily/dh_biz.xml",
-                "멀티미디어 - 전체": "https://rss.hankooki.com/eyenews/ey00_list.xml",
-                "멀티미디어 - 포토": "https://rss.hankooki.com/eyenews/eye_photo.xml",
-                "멀티미디어 - 동영상": "https://rss.hankooki.com/eyenews/eye_movie.xml"
-            }
-        },
-        {
             "title": "매일경제",
             "nickname": "매경",
             "website": "https://www.mk.co.kr/",
@@ -228,28 +200,6 @@
             }
         },
         {
-            "title": "세계파이낸스",
-            "nickname": "세계파이낸스",
-            "website": "http://www.segyebiz.com/",
-            "description": "",
-            "language": "korean",
-            "keywords": [
-                "뉴스",
-                "경제"
-            ],
-            "feedlist": "http://www.segye.com/rssInfo",
-            "favicon": "https://www.segye.com/favicon.ico",
-            "channels": {
-                "전체뉴스": "http://www.segyefn.com/views/rss/all_recent.xml",
-                "금융": "http://www.segyefn.com/views/rss/finance.xml",
-                "산업": "http://www.segyefn.com/views/rss/industry.xml",
-                "부동산": "http://www.segyefn.com/views/rss/property.xml",
-                "증권": "http://www.segyefn.com/views/rss/stock.xml",
-                "오피니언": "http://www.segyefn.com/views/rss/opinion.xml",
-                "CSR": "http://www.segyefn.com/views/rss/csr.xml"
-            }
-        },
-        {
             "title": "스포츠경향",
             "nickname": "스포츠경향",
             "website": "https://sports.khan.co.kr/",
@@ -266,25 +216,6 @@
                 "스포츠": "https://www.khan.co.kr/rss/rssdata/sksports_news.xml",
                 "연예": "https://www.khan.co.kr/rss/rssdata/sk_entertainment.xml",
                 "생활·레저": "https://www.khan.co.kr/rss/rssdata/skentertain_news.xml"
-            }
-        },
-        {
-            "title": "스포츠월드",
-            "nickname": "스포츠월드",
-            "website": "http://www.sportsworldi.com",
-            "description": "",
-            "language": "korean",
-            "keywords": [
-                "뉴스",
-                "스포츠"
-            ],
-            "feedlist": "http://www.segye.com/rssInfo",
-            "favicon": "http://www.sportsworldi.com/favicon.ico",
-            "channels": {
-                "전체뉴스": "http://www.sportsworldi.com/Articles/feedlist/sw_recent.xml",
-                "스포츠": "http://www.sportsworldi.com/Articles/feedlist/sw_sports.xml",
-                "연예": "http://www.sportsworldi.com/Articles/feedlist/sw_entertainment.xml",
-                "라이프": "http://www.sportsworldi.com/Articles/feedlist/sw_life.xml"
             }
         },
         {
@@ -492,21 +423,6 @@
                 "오마이TV 저자와의 대화": "http://rss.ohmynews.com/rss/podcast_authortalk_main.xml",
                 "이슈 털어주는 남자": "http://rss.ohmynews.com/RSS/podcast_etul_main.xml",
                 "이털남 시즌3": "http://rss.ohmynews.com/RSS/podcast_etul3_main.xml"
-            }
-        },
-        {
-            "title": "이데일리",
-            "nickname": "이데일리",
-            "website": "https://www.edaily.co.kr/",
-            "description": "",
-            "language": "korean",
-            "keywords": [
-                "뉴스"
-            ],
-            "feedlist": "https://www.edaily.co.kr/",
-            "favicon": "https://www.edaily.co.kr/v2/images/favicon.ico",
-            "channels": {
-                "전체뉴스": "http://rss.edaily.co.kr/edaily_news.xml"
             }
         },
         {
