@@ -3,42 +3,6 @@
     "createdAt": "2022-03-03 12:12:00.000Z",
     "data": [
         {
-            "title": "CNBC News",
-            "nickname": "CNBC",
-            "website": "https://www.cnbc.com",
-            "description": "",
-            "language": "english",
-            "keywords": [
-                "news",
-                "usa"
-            ],
-            "feedlist": "https://www.cnbc.com/rss-feeds/",
-            "favicon": "https://www.cnbc.com/favicon.ico",
-            "channels": {
-                "Top News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
-                "World News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
-                "US News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15837362",
-                "Asia News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19832390",
-                "Europe News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19794221",
-                "Business": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147",
-                "Earnings": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135",
-                "Commentary": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100370673",
-                "Economy": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
-                "Finance": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
-                "Technology": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
-                "Politics": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000113",
-                "Health Care": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000108",
-                "Real Estate": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000115",
-                "Wealth": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001054",
-                "Autos": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000101",
-                "Energy": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19836768",
-                "Media": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000110",
-                "Retail": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000116",
-                "Travel": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000739",
-                "Small Business": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=44877279"
-            }
-        },
-        {
             "title": "CNN News",
             "nickname": "CNN",
             "website": "https://www.cnn.com/",
@@ -63,43 +27,6 @@
                 "CNN 10": "http://rss.cnn.com/services/podcasting/cnn10/rss.xml",
                 "Most Recent": "http://rss.cnn.com/rss/cnn_latest.rss",
                 "CNN Underscored": "http://rss.cnn.com/cnn-underscored"
-            }
-        },
-        {
-            "title": "CNN Money",
-            "nickname": "CNN",
-            "website": "https://money.cnn.com",
-            "description": "",
-            "language": "english",
-            "keywords": [
-                "news",
-                "business"
-            ],
-            "feedlist": "https://money.cnn.com/services/rss/",
-            "favicon": "https://money.cnn.com/favicon.ico",
-            "channels": {
-                "All Stories": "http://rss.cnn.com/rss/money_latest.rss",
-                "Top Stories": "http://rss.cnn.com/rss/money_topstories.rss",
-                "Most Popular": "http://rss.cnn.com/rss/money_mostpopular.rss",
-                "Companies": "http://rss.cnn.com/rss/money_news_companies.rss",
-                "International": "http://rss.cnn.com/rss/money_news_international.rss",
-                "Economy": "http://rss.cnn.com/rss/money_news_economy.rss",
-                "Video": "http://rss.cnn.com/rss/money_video_business.rss",
-                "Media": "http://rss.cnn.com/rss/money_media.rss",
-                "Markets": "http://rss.cnn.com/rss/money_markets.rss",
-                "The Buzz": "http://rss.cnn.com/cnnmoneymorningbuzz",
-                "Technology": "http://rss.cnn.com/rss/money_technology.rss",
-                "Personal Finance": "http://rss.cnn.com/rss/money_pf.rss",
-                "Autos": "http://rss.cnn.com/rss/money_autos.rss",
-                "Funds": "http://rss.cnn.com/rss/money_funds.rss",
-                "College": "http://rss.cnn.com/rss/money_pf_college.rss",
-                "Insurance": "http://rss.cnn.com/rss/money_pf_insurance.rss",
-                "Taxes": "http://rss.cnn.com/rss/money_pf_taxes.rss",
-                "Retirement": "http://rss.cnn.com/rss/money_retirement.rss",
-                "Lifestyle": "http://rss.cnn.com/rss/money_lifestyle.rss",
-                "Real Estate": "http://rss.cnn.com/rss/money_realestate.rss",
-                "Luxury": "http://rss.cnn.com/rss/money_luxury.rss",
-                "Small Business": "http://rss.cnn.com/rss/money_smbusiness.rss"
             }
         },
         {
@@ -168,35 +95,6 @@
             }
         },
         {
-            "title": "MarketWatch",
-            "nickname": "MarketWatch",
-            "website": "https://www.marketwatch.com",
-            "description": "",
-            "language": "english",
-            "keywords": [
-                "news",
-                "business"
-            ],
-            "feedlist": "https://www.marketwatch.com/rss/",
-            "favicon": "https://www.marketwatch.com/favicon.ico",
-            "channels": {
-                "Top Stories": "http://www.marketwatch.com/rss/topstories",
-                "Real-time headlines": "http://www.marketwatch.com/rss/realtimeheadlines",
-                "MarketPulse": "http://www.marketwatch.com/rss/marketpulse",
-                "Breaking News Bulletins": "http://feeds.marketwatch.com/marketwatch/bulletins",
-                "Personal Finance Stories/Columns": "http://www.marketwatch.com/rss/pf",
-                "Stocks to Watch": "http://www.marketwatch.com/rss/StockstoWatch",
-                "Internet Stories/Columns": "http://www.marketwatch.com/rss/internet",
-                "Mutual Funds": "http://www.marketwatch.com/rss/mutualfunds",
-                "Software Stories/Columns": "http://www.marketwatch.com/rss/software",
-                "Banking": "http://www.marketwatch.com/rss/financial",
-                "Financial Services Stories/Columns": "http://www.marketwatch.com/rss/financial",
-                "Commentary": "http://www.marketwatch.com/rss/commentary",
-                "Newsletters & Research": "http://www.marketwatch.com/rss/newslettersandresearch",
-                "Automotive Reviews": "http://www.marketwatch.com/rss/Autoreviews"
-            }
-        },
-        {
             "title": "PBS NewsHour",
             "nickname": "PBS",
             "website": "https://www.pbs.org/",
@@ -243,23 +141,6 @@
                 "Market News": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
                 "Technology": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
                 "Lifestyle": "https://feeds.a.dj.com/rss/RSSLifestyle.xml"
-            }
-        },
-        {
-            "title": "Newswire",
-            "nickname": "Newswire",
-            "website": "https://www.newswire.com/",
-            "description": "",
-            "language": "english",
-            "keywords": [
-                "press release"
-            ],
-            "feedlist": "https://www.newswire.com/feeds",
-            "favicon": "https://www.newswire.com/favicon.ico",
-            "channels": {
-                "Premium Press Release": "https://www.newswire.com/newsroom/rss/custom/premium-press-releases",
-                "Latest Press Release": "https://www.newswire.com/newsroom/rss/custom/all-press-releases",
-                "Arts and Entertainment": "https://www.newswire.com/newsroom/rss/arts-and-entertainment"
             }
         }
     ]

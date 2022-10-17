@@ -1,5 +1,5 @@
 {
-  "created": "2022-10-17T15:25:01.004741",
+  "created": "2022-10-17T15:36:27.984729",
   "data": [
     {
       "title": "\uacbd\ud5a5\uc2e0\ubb38",
@@ -997,7 +997,7 @@
       "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
       "channels": {
         "New Articles": "https://en.wikipedia.org/w/index.php?title=Special:NewPages&feed=rss",
-        "Featured Articles": "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom"
+        "Featured": "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom"
       }
     },
     {
