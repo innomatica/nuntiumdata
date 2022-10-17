@@ -1,5 +1,5 @@
 {
-  "created": "2022-10-17T16:47:40.051170",
+  "created": "2022-10-17T18:39:12.513415",
   "data": [
     {
       "title": "\u671d\u65e5\u65b0\u805e",
@@ -129,29 +129,6 @@
         "Earth": "https://www.newscientist.com/subject/earth/feed/",
         "Health": "https://www.newscientist.com/subject/health/feed/",
         "Humans": "https://www.newscientist.com/subject/humans/feed/"
-      }
-    },
-    {
-      "title": "WIRED",
-      "nickname": "WIRED",
-      "website": "https://www.wired.com",
-      "description": "",
-      "language": "english",
-      "keywords": [
-        "magazine"
-      ],
-      "feedlist": "https://www.wired.com/about/rss-feeds/",
-      "favicon": "https://www.wired.com/favicon.ico",
-      "channels": {
-        "Business": "https://www.wired.com/feed/category/business/latest/rss",
-        "Artificial Intelligence": "https://www.wired.com/feed/tag/ai/latest/rss",
-        "Culture": "https://www.wired.com/feed/category/culture/latest/rss",
-        "Gear": "https://www.wired.com/feed/category/gear/latest/rss",
-        "Ideas": "https://www.wired.com/feed/category/ideas/latest/rss",
-        "Science": "https://www.wired.com/feed/category/science/latest/rss",
-        "Security": "https://www.wired.com/feed/category/security/latest/rss",
-        "Backchannel": "https://www.wired.com/feed/category/backchannel/latest/rss",
-        "Guides": "https://www.wired.com/feed/tag/wired-guide/latest/rss"
       }
     },
     {
@@ -379,6 +356,31 @@
         "Education": "https://www.pbs.org/newshour/feeds/rss/education",
         "Agents for Change": "https://www.pbs.org/newshour/feeds/rss/agents-for-change",
         "American Graduate": "https://www.pbs.org/newshour/feeds/rss/american-graduate"
+      }
+    },
+    {
+      "title": "Guardian, The",
+      "nickname": "Guardian",
+      "website": "https://www.theguardian.com",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "uk"
+      ],
+      "feedlist": "https://www.theguardian.com/help/feeds",
+      "favicon": "https://www.theguardian.com/favicon.ico",
+      "channels": {
+        "World": "https://www.theguardian.com/world/rss",
+        "Europe": "https://www.theguardian.com/world/europe-news/rss",
+        "US": "https://www.theguardian.com/us-news/rss",
+        "Americas": "https://www.theguardian.com/world/americas/rss",
+        "Asia": "https://www.theguardian.com/world/asia/rss",
+        "Australia": "https://www.theguardian.com/australia-news/rss",
+        "Middle East": "https://www.theguardian.com/world/middleeast/rss",
+        "Africa": "https://www.theguardian.com/world/africa/rss",
+        "Inequality": "https://www.theguardian.com/inequality/rss",
+        "Glolbal Development": "https://www.theguardian.com/global-development/rss"
       }
     }
   ]

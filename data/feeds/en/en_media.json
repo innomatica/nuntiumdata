@@ -128,6 +128,31 @@
                 "Agents for Change": "https://www.pbs.org/newshour/feeds/rss/agents-for-change",
                 "American Graduate": "https://www.pbs.org/newshour/feeds/rss/american-graduate"
             }
+        },
+        {
+            "title": "Guardian, The",
+            "nickname": "Guardian",
+            "website": "https://www.theguardian.com",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news",
+                "uk"
+            ],
+            "feedlist": "https://www.theguardian.com/help/feeds",
+            "favicon": "https://www.theguardian.com/favicon.ico",
+            "channels": {
+                "World": "https://www.theguardian.com/world/rss",
+                "Europe": "https://www.theguardian.com/world/europe-news/rss",
+                "US": "https://www.theguardian.com/us-news/rss",
+                "Americas": "https://www.theguardian.com/world/americas/rss",
+                "Asia": "https://www.theguardian.com/world/asia/rss",
+                "Australia": "https://www.theguardian.com/australia-news/rss",
+                "Middle East": "https://www.theguardian.com/world/middleeast/rss",
+                "Africa": "https://www.theguardian.com/world/africa/rss",
+                "Inequality": "https://www.theguardian.com/inequality/rss",
+                "Glolbal Development": "https://www.theguardian.com/global-development/rss"
+            }
         }
     ]
 }
