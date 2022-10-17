@@ -52,6 +52,29 @@
             }
         },
         {
+            "title": "WIRED",
+            "nickname": "WIRED",
+            "website": "https://www.wired.com",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "magazine"
+            ],
+            "feedlist": "https://www.wired.com/about/rss-feeds/",
+            "favicon": "https://www.wired.com/favicon.ico",
+            "channels": {
+                "Business": "https://www.wired.com/feed/category/business/latest/rss",
+                "Artificial Intelligence": "https://www.wired.com/feed/tag/ai/latest/rss",
+                "Culture": "https://www.wired.com/feed/category/culture/latest/rss",
+                "Gear": "https://www.wired.com/feed/category/gear/latest/rss",
+                "Ideas": "https://www.wired.com/feed/category/ideas/latest/rss",
+                "Science": "https://www.wired.com/feed/category/science/latest/rss",
+                "Security": "https://www.wired.com/feed/category/security/latest/rss",
+                "Backchannel": "https://www.wired.com/feed/category/backchannel/latest/rss",
+                "Guides": "https://www.wired.com/feed/tag/wired-guide/latest/rss"
+            }
+        },
+        {
             "title": "Reddit",
             "nickname": "Reddit",
             "website": "https://www.reddit.com/",
@@ -133,6 +156,22 @@
                 "Earth":"https://www.nasa.gov/rss/dyn/earth.rss",
                 "Aeronautics":"https://www.nasa.gov/rss/dyn/aeronautics.rss",
                 "Hurricane Update":"https://www.nasa.gov/rss/dyn/hurricaneupdate.rss"
+            }
+        },
+        {
+            "title": "Wikipedia",
+            "nickname": "Wikipedia",
+            "website": "https://en.wikipedia.org/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "wiki"
+            ],
+            "feedlist": "https://feedly.helpscoutdocs.com/article/361-how-to-follow-wikipedia-feeds",
+            "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+            "channels": {
+                "New Articles": "https://en.wikipedia.org/w/index.php?title=Special:NewPages&feed=rss",
+                "Featured Articles":"https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom"
             }
         }
     ]

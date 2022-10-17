@@ -3,6 +3,21 @@
     "createdAt": "2022-03-03 12:12:00.000Z",
     "data": [
         {
+            "title": "The Scientist",
+            "nickname": "TS",
+            "website": "https://the-scientist.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "science"
+            ],
+            "feedlist": "https://blog.feedspot.com/science_rss_feeds/",
+            "favicon": "https://cdn.the-scientist.com/static/5.6.14/favicon.ico",
+            "channels": {
+                "All Articles": "https://www.the-scientist.com/rss/feed-the-scientist.xml"
+            }
+        },
+        {
             "title": "Reddit",
             "nickname": "Reddit",
             "website": "https://www.reddit.com/",

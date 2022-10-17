@@ -1,5 +1,5 @@
 {
-  "created": "2022-10-17T14:09:25.057582",
+  "created": "2022-10-17T15:25:00.990184",
   "data": [
     {
       "title": "CNBC News",
@@ -459,6 +459,22 @@
         "Earth": "https://www.nasa.gov/rss/dyn/earth.rss",
         "Aeronautics": "https://www.nasa.gov/rss/dyn/aeronautics.rss",
         "Hurricane Update": "https://www.nasa.gov/rss/dyn/hurricaneupdate.rss"
+      }
+    },
+    {
+      "title": "Wikipedia",
+      "nickname": "Wikipedia",
+      "website": "https://en.wikipedia.org/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "wiki"
+      ],
+      "feedlist": "https://feedly.helpscoutdocs.com/article/361-how-to-follow-wikipedia-feeds",
+      "favicon": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+      "channels": {
+        "New Articles": "https://en.wikipedia.org/w/index.php?title=Special:NewPages&feed=rss",
+        "Featured Articles": "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom"
       }
     },
     {
