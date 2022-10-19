@@ -52,6 +52,22 @@
             }
         },
         {
+            "title": "MagPi Magine",
+            "nickname": "MagPi",
+            "website": "https://magpi.raspberrypi.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "magazine",
+                "hobby"
+            ],
+            "feedlist": "https://magpi.raspberrypi.com/feed",
+            "favicon": "https://magpi.raspberrypi.com/assets/magpi/favicon-2078abe5477dfeb7a273e1826d821a28a4e988fe.png",
+            "channels": {
+                "All articles": "https://magpi.raspberrypi.com/feed"
+            }
+        },
+        {
             "title": "Reddit",
             "nickname": "Reddit",
             "website": "https://www.reddit.com/",

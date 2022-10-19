@@ -1,5 +1,5 @@
 {
-  "created": "2022-10-19T15:11:56.151668",
+  "created": "2022-10-19T17:16:20.291727",
   "data": [
     {
       "title": "\uacbd\ud5a5\uc2e0\ubb38",
@@ -832,6 +832,22 @@
         "Earth": "https://www.newscientist.com/subject/earth/feed/",
         "Health": "https://www.newscientist.com/subject/health/feed/",
         "Humans": "https://www.newscientist.com/subject/humans/feed/"
+      }
+    },
+    {
+      "title": "MagPi Magine",
+      "nickname": "MagPi",
+      "website": "https://magpi.raspberrypi.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "magazine",
+        "hobby"
+      ],
+      "feedlist": "https://magpi.raspberrypi.com/feed",
+      "favicon": "https://magpi.raspberrypi.com/assets/magpi/favicon-2078abe5477dfeb7a273e1826d821a28a4e988fe.png",
+      "channels": {
+        "All articles": "https://magpi.raspberrypi.com/feed"
       }
     },
     {
