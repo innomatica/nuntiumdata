@@ -1,5 +1,5 @@
 {
-  "created": "2022-10-17T18:39:12.487805",
+  "created": "2022-10-19T15:11:56.131114",
   "data": [
     {
       "title": "CNN News",
@@ -246,6 +246,21 @@
       "channels": {
         "New Articles": "https://en.wikipedia.org/w/index.php?title=Special:NewPages&feed=rss",
         "Featured": "https://en.wikipedia.org/w/api.php?action=featuredfeed&feed=featured&feedformat=atom"
+      }
+    },
+    {
+      "title": "XDA Developers",
+      "nickname": "XDA",
+      "website": "https://en.wikipedia.org/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "magazine"
+      ],
+      "feedlist": "https://www.xda-developers.com/feed/",
+      "favicon": "https://www.xda-developers.com/favicon.ico",
+      "channels": {
+        "All Articles": "https://www.xda-developers.com/feed/"
       }
     },
     {
