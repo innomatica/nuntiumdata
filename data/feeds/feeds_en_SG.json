@@ -1,5 +1,5 @@
 {
-  "created": "2022-10-19T19:31:47.737833",
+  "created": "2022-10-21T15:06:27.918214",
   "data": [
     {
       "title": "The Straits Times",
@@ -15,6 +15,27 @@
       "channels": {
         "Opinion": "https://www.straitstimes.com/news/opinion/rss.xml",
         "Asia": "https://www.straitstimes.com/news/asia/rss.xml"
+      }
+    },
+    {
+      "title": "Business Times",
+      "nickname": "BT",
+      "website": "https://www.businesstimes.com.sg/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news"
+      ],
+      "feedlist": "https://www.businesstimes.com.sg/rss-feeds",
+      "favicon": "https://static.businesstimes.com.sg/s3fs-public/favicon-5.png",
+      "channels": {
+        "Companies & Markets": "https://www.businesstimes.com.sg/rss/companies-markets",
+        "Stocks": "https://www.businesstimes.com.sg/rss/stocks",
+        "Real Estate": "https://www.businesstimes.com.sg/rss/real-estate",
+        "Banking & Finance": "https://www.businesstimes.com.sg/rss/banking-finance",
+        "Government & Economy": "https://www.businesstimes.com.sg/rss/government-economy",
+        "Wealth & Investing": "https://www.businesstimes.com.sg/rss/wealth-investing",
+        "ASEAN Business": "https://www.businesstimes.com.sg/rss/asean-business"
       }
     },
     {
@@ -142,6 +163,68 @@
         "r/doctorwho": "https://www.reddit.com/r/doctorwho/.rss",
         "r/MURICA": "https://www.reddit.com/r/MURICA/.rss",
         "r/firstworldanarchists": "https://www.reddit.com/r/firstworldanarchists/.rss"
+      }
+    },
+    {
+      "title": "Public Service Division",
+      "nickname": "psd.gov",
+      "website": "https://www.psd.gov.sg/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "government"
+      ],
+      "feedlist": "https://www.psd.gov.sg/rss",
+      "favicon": "https://www.psd.gov.sg/html/PSDRevamp/favicon.ico",
+      "channels": {
+        "Forum Letter Replies": "https://www.psd.gov.sg/rss?module=forum-letter-replies",
+        "Press Releases": "https://www.psd.gov.sg/rss?module=press-releases",
+        "Parliamentary Replies": "https://www.psd.gov.sg/rss?module=parliamentary-replies",
+        "Speeches": "https://www.psd.gov.sg/rss?module=speeches"
+      }
+    },
+    {
+      "title": "Nature",
+      "nickname": "Nature",
+      "website": "https://www.nature.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "journal",
+        "science"
+      ],
+      "feedlist": "https://www.nature.com/",
+      "favicon": "https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png",
+      "channels": {
+        "All Articles": "https://www.nature.com/nature.rss"
+      }
+    },
+    {
+      "title": "PLOS",
+      "nickname": "PLOS",
+      "website": "https://plos.org/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "journal",
+        "science"
+      ],
+      "feedlist": "https://journals.plos.org/ploscompbiol/s/find-and-read-articles#loc-new-articles-by-rss",
+      "favicon": "https://plos.org/wp-content/themes/plos/favicon/favicon-32x32.png",
+      "channels": {
+        "Biology": "https://journals.plos.org/plosbiology/feed/atom",
+        "Climate": "https://journals.plos.org/climate/feed/atom",
+        "Computational Biology": "https://journals.plos.org/ploscompbiol/feed/atom",
+        "Digital Health": "https://journals.plos.org/digitalhealth/feed/atom",
+        "Genetics": "https://journals.plos.org/plosgenetics/feed/atom",
+        "Global Public Health": "https://journals.plos.org/globalpublichealth/feed/atom",
+        "Medicine": "https://journals.plos.org/plosmedicine/feed/atom",
+        "Neglected Tropical Diseases": "https://journals.plos.org/plosntds/feed/atom",
+        "ONE": "https://journals.plos.org/plosone/feed/atom",
+        "Pathogens": "https://journals.plos.org/plospathogens/feed/atom",
+        "Sustainability and Transformation": "https://journals.plos.org/sustainabilitytransformation/feed/atom",
+        "Water": "https://journals.plos.org/water/feed/atom",
+        "Blog": "https://theplosblog.plos.org/feed/"
       }
     },
     {

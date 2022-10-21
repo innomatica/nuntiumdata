@@ -19,6 +19,27 @@
             }
         },
         {
+            "title": "Business Times",
+            "nickname": "BT",
+            "website": "https://www.businesstimes.com.sg/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "news"
+            ],
+            "feedlist": "https://www.businesstimes.com.sg/rss-feeds",
+            "favicon": "https://static.businesstimes.com.sg/s3fs-public/favicon-5.png",
+            "channels": {
+                "Companies & Markets":"https://www.businesstimes.com.sg/rss/companies-markets",
+                "Stocks":"https://www.businesstimes.com.sg/rss/stocks",
+                "Real Estate":"https://www.businesstimes.com.sg/rss/real-estate",
+                "Banking & Finance":"https://www.businesstimes.com.sg/rss/banking-finance",
+                "Government & Economy":"https://www.businesstimes.com.sg/rss/government-economy",
+                "Wealth & Investing":"https://www.businesstimes.com.sg/rss/wealth-investing",
+                "ASEAN Business":"https://www.businesstimes.com.sg/rss/asean-business"
+            }
+        },
+        {
             "title": "The Independent",
             "nickname": "TI",
             "website": "https://theindependent.sg/",

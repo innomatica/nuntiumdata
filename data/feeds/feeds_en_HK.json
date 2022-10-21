@@ -1,5 +1,5 @@
 {
-  "created": "2022-10-19T19:31:47.726669",
+  "created": "2022-10-21T15:06:27.906244",
   "data": [
     {
       "title": "South China Morning Post",
@@ -120,6 +120,50 @@
         "Abacus - Who is & what is": "https://www.scmp.com/rss/506039/feed",
         "Abacus - News bites": "https://www.scmp.com/rss/506042/feed",
         "SCMP cooking": "https://www.scmp.com/rss/502060/feed"
+      }
+    },
+    {
+      "title": "Nature",
+      "nickname": "Nature",
+      "website": "https://www.nature.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "journal",
+        "science"
+      ],
+      "feedlist": "https://www.nature.com/",
+      "favicon": "https://www.nature.com/static/images/favicons/nature/favicon-32x32-3fe59ece92.png",
+      "channels": {
+        "All Articles": "https://www.nature.com/nature.rss"
+      }
+    },
+    {
+      "title": "PLOS",
+      "nickname": "PLOS",
+      "website": "https://plos.org/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "journal",
+        "science"
+      ],
+      "feedlist": "https://journals.plos.org/ploscompbiol/s/find-and-read-articles#loc-new-articles-by-rss",
+      "favicon": "https://plos.org/wp-content/themes/plos/favicon/favicon-32x32.png",
+      "channels": {
+        "Biology": "https://journals.plos.org/plosbiology/feed/atom",
+        "Climate": "https://journals.plos.org/climate/feed/atom",
+        "Computational Biology": "https://journals.plos.org/ploscompbiol/feed/atom",
+        "Digital Health": "https://journals.plos.org/digitalhealth/feed/atom",
+        "Genetics": "https://journals.plos.org/plosgenetics/feed/atom",
+        "Global Public Health": "https://journals.plos.org/globalpublichealth/feed/atom",
+        "Medicine": "https://journals.plos.org/plosmedicine/feed/atom",
+        "Neglected Tropical Diseases": "https://journals.plos.org/plosntds/feed/atom",
+        "ONE": "https://journals.plos.org/plosone/feed/atom",
+        "Pathogens": "https://journals.plos.org/plospathogens/feed/atom",
+        "Sustainability and Transformation": "https://journals.plos.org/sustainabilitytransformation/feed/atom",
+        "Water": "https://journals.plos.org/water/feed/atom",
+        "Blog": "https://theplosblog.plos.org/feed/"
       }
     },
     {
