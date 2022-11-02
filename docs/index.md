@@ -1,4 +1,4 @@
-# Lector
+# Nuntium
 
 * [Disclaimer](./disclaimer.md)
 * [Instruction](./manual.md)
