@@ -1,4 +1,0 @@
-site_name: Nuntium
-theme: readthedocs
-markdown_extensions:
-  - attr_list
