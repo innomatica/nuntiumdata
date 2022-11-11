@@ -1,5 +1,5 @@
 {
-  "created": "2022-10-21T15:06:27.899457",
+  "created": "2022-11-11T19:42:56.036464",
   "data": [
     {
       "title": "CBC News",
@@ -248,6 +248,22 @@
       "favicon": "https://magpi.raspberrypi.com/assets/magpi/favicon-2078abe5477dfeb7a273e1826d821a28a4e988fe.png",
       "channels": {
         "All articles": "https://magpi.raspberrypi.com/feed"
+      }
+    },
+    {
+      "title": "CNX - Software",
+      "nickname": "CNX",
+      "website": "https://www.cnx-software.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "magazine",
+        "hobby"
+      ],
+      "feedlist": "https://www.cnx-software.com/feed/",
+      "favicon": "https://cdn.cnx-software.com/wp-content/uploads/2021/04/cropped-CNX-Software-Square-Logo-Light-Grey-1.png?lossy=1&resize=32%2C32&ssl=1",
+      "channels": {
+        "All articles": "https://www.cnx-software.com/feed/"
       }
     },
     {
