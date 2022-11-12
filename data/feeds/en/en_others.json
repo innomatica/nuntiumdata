@@ -112,6 +112,22 @@
             }
         },
         {
+            "title": "Liliputing",
+            "nickname": "Liliputing",
+            "website": "https://liliputing.com/",
+            "description": "",
+            "language": "english",
+            "keywords": [
+                "magazine",
+                "hobby"
+            ],
+            "feedlist": "https://liliputing.com/feed/",
+            "favicon": "https://liliputing.com/wp-content/uploads/2020/02/cropped-lp_icon_1024-e1582423214846-32x32.png",
+            "channels": {
+                "All articles": "https://liliputing.com/feed/"
+            }
+        },    
+        {
             "title": "CNX - Software",
             "nickname": "CNX",
             "website": "https://www.cnx-software.com/",
