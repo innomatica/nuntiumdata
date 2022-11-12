@@ -1,5 +1,5 @@
 {
-  "created": "2022-11-11T19:42:56.062902",
+  "created": "2022-11-12T22:30:21.735088",
   "data": [
     {
       "title": "CNN News",
@@ -206,6 +206,22 @@
       "favicon": "https://magpi.raspberrypi.com/assets/magpi/favicon-2078abe5477dfeb7a273e1826d821a28a4e988fe.png",
       "channels": {
         "All articles": "https://magpi.raspberrypi.com/feed"
+      }
+    },
+    {
+      "title": "Liliputing",
+      "nickname": "Liliputing",
+      "website": "https://liliputing.com/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "magazine",
+        "hobby"
+      ],
+      "feedlist": "https://liliputing.com/feed/",
+      "favicon": "https://liliputing.com/wp-content/uploads/2020/02/cropped-lp_icon_1024-e1582423214846-32x32.png",
+      "channels": {
+        "All articles": "https://liliputing.com/feed/"
       }
     },
     {
