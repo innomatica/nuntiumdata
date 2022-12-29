@@ -1,5 +1,5 @@
 {
-  "created": "2022-11-12T22:30:21.730279",
+  "created": "2022-12-29T03:20:36.949115",
   "data": [
     {
       "title": "BBC News",
@@ -68,6 +68,89 @@
         "Africa": "https://www.theguardian.com/world/africa/rss",
         "Inequality": "https://www.theguardian.com/inequality/rss",
         "Glolbal Development": "https://www.theguardian.com/global-development/rss"
+      }
+    },
+    {
+      "title": "CBC News",
+      "nickname": "CBC",
+      "website": "https://www.cbc.ca",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "canada",
+        "public"
+      ],
+      "feedlist": "https://www.cbc.ca/rss/",
+      "favicon": "https://www.cbc.ca/favicon.ico",
+      "channels": {
+        "Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
+        "World": "https://rss.cbc.ca/lineup/world.xml",
+        "Canada": "https://rss.cbc.ca/lineup/canada.xml",
+        "Politics": "https://rss.cbc.ca/lineup/politics.xml",
+        "Business": "https://rss.cbc.ca/lineup/business.xml",
+        "Health": "https://rss.cbc.ca/lineup/health.xml",
+        "Arts & Entertainment": "https://rss.cbc.ca/lineup/arts.xml",
+        "Technology & Science": "https://rss.cbc.ca/lineup/technology.xml",
+        "Offbeat": "https://rss.cbc.ca/lineup/offbeat.xml",
+        "Indigenous": "https://www.cbc.ca/cmlink/rss-Indigenous",
+        "Sports": "https://rss.cbc.ca/lineup/sports.xml",
+        "MLB": "https://rss.cbc.ca/lineup/sports-mlb.xml",
+        "NBA": "https://rss.cbc.ca/lineup/sports-nba.xml",
+        "Curling": "https://rss.cbc.ca/lineup/sports-curling.xml",
+        "CFL": "https://rss.cbc.ca/lineup/sports-cfl.xml",
+        "NFL": "https://rss.cbc.ca/lineup/sports-nfl.xml",
+        "NHL": "https://rss.cbc.ca/lineup/sports-nhl.xml",
+        "Soccer": "https://rss.cbc.ca/lineup/sports-soccer.xml",
+        "The National - In Depth Reports": "https://rss.cbc.ca/lineup/thenational.xml",
+        "British Columbia": "https://rss.cbc.ca/lineup/canada-britishcolumbia.xml",
+        "Calgary": "https://rss.cbc.ca/lineup/canada-calgary.xml",
+        "Edmonton": "https://rss.cbc.ca/lineup/canada-edmonton.xml",
+        "Hamilton": "https://rss.cbc.ca/lineup/canada-hamiltonnews.xml",
+        "Kamloops": "https://rss.cbc.ca/lineup/canada-kamloops.xml",
+        "Kitchener-Waterloo": "https://rss.cbc.ca/lineup/canada-kitchenerwaterloo.xml",
+        "London": "https://www.cbc.ca/cmlink/rss-canada-london",
+        "Manitoba": "https://rss.cbc.ca/lineup/canada-manitoba.xml",
+        "Montreal": "https://rss.cbc.ca/lineup/canada-montreal.xml",
+        "New Brunswick": "https://rss.cbc.ca/lineup/canada-newbrunswick.xml",
+        "Newfoundland & Labrador": "https://rss.cbc.ca/lineup/canada-newfoundland.xml",
+        "North": "https://rss.cbc.ca/lineup/canada-north.xml",
+        "Nova Scotia": "https://rss.cbc.ca/lineup/canada-novascotia.xml",
+        "Ottawa": "https://www.cbc.ca/cmlink/rss-canada-ottawa",
+        "Prince Edward Island": "https://rss.cbc.ca/lineup/canada-pei.xml",
+        "Saskatchewan": "https://rss.cbc.ca/lineup/canada-saskatchewan.xml",
+        "Saskatoon": "https://rss.cbc.ca/lineup/canada-saskatoon.xml",
+        "Sudbury": "https://rss.cbc.ca/lineup/canada-sudbury.xml",
+        "Thunder Bay": "https://rss.cbc.ca/lineup/canada-thunderbay.xml",
+        "Windsor": "https://rss.cbc.ca/lineup/canada-windsor.xml",
+        "Toronto": "https://rss.cbc.ca/lineup/canada-toronto.xml"
+      }
+    },
+    {
+      "title": "PBS NewsHour",
+      "nickname": "PBS",
+      "website": "https://www.pbs.org/",
+      "description": "",
+      "language": "english",
+      "keywords": [
+        "news",
+        "usa",
+        "public"
+      ],
+      "feedlist": "https://www.pbs.org/newshour/subscribe#rss-feeds",
+      "favicon": "https://www.pbs.org/favicon.ico",
+      "channels": {
+        "The Latest": "https://www.pbs.org/newshour/feeds/rss/headlines",
+        "Politics": "https://www.pbs.org/newshour/feeds/rss/politics",
+        "Arts": "https://www.pbs.org/newshour/feeds/rss/arts",
+        "Nation": "https://www.pbs.org/newshour/feeds/rss/nation",
+        "World": "https://www.pbs.org/newshour/feeds/rss/world",
+        "Economy": "https://www.pbs.org/newshour/feeds/rss/economy",
+        "Science": "https://www.pbs.org/newshour/feeds/rss/science",
+        "Health": "https://www.pbs.org/newshour/feeds/rss/health",
+        "Education": "https://www.pbs.org/newshour/feeds/rss/education",
+        "Agents for Change": "https://www.pbs.org/newshour/feeds/rss/agents-for-change",
+        "American Graduate": "https://www.pbs.org/newshour/feeds/rss/american-graduate"
       }
     },
     {
@@ -324,89 +407,6 @@
       "favicon": "https://www.xda-developers.com/favicon.ico",
       "channels": {
         "All Articles": "https://www.xda-developers.com/feed/"
-      }
-    },
-    {
-      "title": "CBC News",
-      "nickname": "CBC",
-      "website": "https://www.cbc.ca",
-      "description": "",
-      "language": "english",
-      "keywords": [
-        "news",
-        "canada",
-        "public"
-      ],
-      "feedlist": "https://www.cbc.ca/rss/",
-      "favicon": "https://www.cbc.ca/favicon.ico",
-      "channels": {
-        "Top Stories": "https://rss.cbc.ca/lineup/topstories.xml",
-        "World": "https://rss.cbc.ca/lineup/world.xml",
-        "Canada": "https://rss.cbc.ca/lineup/canada.xml",
-        "Politics": "https://rss.cbc.ca/lineup/politics.xml",
-        "Business": "https://rss.cbc.ca/lineup/business.xml",
-        "Health": "https://rss.cbc.ca/lineup/health.xml",
-        "Arts & Entertainment": "https://rss.cbc.ca/lineup/arts.xml",
-        "Technology & Science": "https://rss.cbc.ca/lineup/technology.xml",
-        "Offbeat": "https://rss.cbc.ca/lineup/offbeat.xml",
-        "Indigenous": "https://www.cbc.ca/cmlink/rss-Indigenous",
-        "Sports": "https://rss.cbc.ca/lineup/sports.xml",
-        "MLB": "https://rss.cbc.ca/lineup/sports-mlb.xml",
-        "NBA": "https://rss.cbc.ca/lineup/sports-nba.xml",
-        "Curling": "https://rss.cbc.ca/lineup/sports-curling.xml",
-        "CFL": "https://rss.cbc.ca/lineup/sports-cfl.xml",
-        "NFL": "https://rss.cbc.ca/lineup/sports-nfl.xml",
-        "NHL": "https://rss.cbc.ca/lineup/sports-nhl.xml",
-        "Soccer": "https://rss.cbc.ca/lineup/sports-soccer.xml",
-        "The National - In Depth Reports": "https://rss.cbc.ca/lineup/thenational.xml",
-        "British Columbia": "https://rss.cbc.ca/lineup/canada-britishcolumbia.xml",
-        "Calgary": "https://rss.cbc.ca/lineup/canada-calgary.xml",
-        "Edmonton": "https://rss.cbc.ca/lineup/canada-edmonton.xml",
-        "Hamilton": "https://rss.cbc.ca/lineup/canada-hamiltonnews.xml",
-        "Kamloops": "https://rss.cbc.ca/lineup/canada-kamloops.xml",
-        "Kitchener-Waterloo": "https://rss.cbc.ca/lineup/canada-kitchenerwaterloo.xml",
-        "London": "https://www.cbc.ca/cmlink/rss-canada-london",
-        "Manitoba": "https://rss.cbc.ca/lineup/canada-manitoba.xml",
-        "Montreal": "https://rss.cbc.ca/lineup/canada-montreal.xml",
-        "New Brunswick": "https://rss.cbc.ca/lineup/canada-newbrunswick.xml",
-        "Newfoundland & Labrador": "https://rss.cbc.ca/lineup/canada-newfoundland.xml",
-        "North": "https://rss.cbc.ca/lineup/canada-north.xml",
-        "Nova Scotia": "https://rss.cbc.ca/lineup/canada-novascotia.xml",
-        "Ottawa": "https://www.cbc.ca/cmlink/rss-canada-ottawa",
-        "Prince Edward Island": "https://rss.cbc.ca/lineup/canada-pei.xml",
-        "Saskatchewan": "https://rss.cbc.ca/lineup/canada-saskatchewan.xml",
-        "Saskatoon": "https://rss.cbc.ca/lineup/canada-saskatoon.xml",
-        "Sudbury": "https://rss.cbc.ca/lineup/canada-sudbury.xml",
-        "Thunder Bay": "https://rss.cbc.ca/lineup/canada-thunderbay.xml",
-        "Windsor": "https://rss.cbc.ca/lineup/canada-windsor.xml",
-        "Toronto": "https://rss.cbc.ca/lineup/canada-toronto.xml"
-      }
-    },
-    {
-      "title": "PBS NewsHour",
-      "nickname": "PBS",
-      "website": "https://www.pbs.org/",
-      "description": "",
-      "language": "english",
-      "keywords": [
-        "news",
-        "usa",
-        "public"
-      ],
-      "feedlist": "https://www.pbs.org/newshour/subscribe#rss-feeds",
-      "favicon": "https://www.pbs.org/favicon.ico",
-      "channels": {
-        "The Latest": "https://www.pbs.org/newshour/feeds/rss/headlines",
-        "Politics": "https://www.pbs.org/newshour/feeds/rss/politics",
-        "Arts": "https://www.pbs.org/newshour/feeds/rss/arts",
-        "Nation": "https://www.pbs.org/newshour/feeds/rss/nation",
-        "World": "https://www.pbs.org/newshour/feeds/rss/world",
-        "Economy": "https://www.pbs.org/newshour/feeds/rss/economy",
-        "Science": "https://www.pbs.org/newshour/feeds/rss/science",
-        "Health": "https://www.pbs.org/newshour/feeds/rss/health",
-        "Education": "https://www.pbs.org/newshour/feeds/rss/education",
-        "Agents for Change": "https://www.pbs.org/newshour/feeds/rss/agents-for-change",
-        "American Graduate": "https://www.pbs.org/newshour/feeds/rss/american-graduate"
       }
     }
   ]
